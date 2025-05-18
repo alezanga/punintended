@@ -1,0 +1,2526 @@
+[
+    {
+        "text": "When it comes to drinks, citrus fruit juices are always in the limelight .",
+        "w_p": "limelight",
+        "w_a": "lime",
+        "s_p": "a focus of public attention",
+        "s_a": "the green acidic fruit of any of various lime trees",
+        "c_w": [
+            "drinks",
+            "citrus"
+        ],
+        "explanation": "If something's 'in the limelight', it hogs all the attention away from others in its category. It's also a play on limes - a kind of citrus fruit.",
+        "label": 1,
+        "is_het": true,
+        "id": "het_1442"
+    },
+    {
+        "text": "Partying Saturday and Sunday leaves me feeling weakened .",
+        "w_p": "weakened",
+        "w_a": "weekend",
+        "s_p": "lessen the strength of",
+        "s_a": "a time period usually extending from Friday night through Sunday; more loosely defined as any period of successive days including one and only one Sunday",
+        "c_w": [
+            "partying",
+            "Saturday",
+            "Sunday"
+        ],
+        "explanation": "Saturday and Sunday are days that make up the weekend. Weakened sounds like weekend. To be weakened is to have lost a certain degree of strength. Parting leaves people exhausted which is a form of being weakened.",
+        "label": 1,
+        "is_het": true,
+        "id": "het_329"
+    },
+    {
+        "text": "People in the desert have dry humor .",
+        "w_p": "dry",
+        "w_a": "dry",
+        "s_p": "free from liquid or moisture; lacking natural or normal moisture or depleted of water; or no longer wet",
+        "s_a": "humorously sarcastic or mocking",
+        "c_w": [
+            "people",
+            "dry humor",
+            "desert"
+        ],
+        "explanation": "This is a pun on 'dry humor', which is known as the deliberate display of emotional neutrality or no emotion, commonly as a form of comedic delivery to contrast with the ridiculousness or absurdity of the subject matter. However it's used here in the literal sense because the desert is a very dry place",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_1573"
+    },
+    {
+        "text": "All are not thieves that dogs bark at .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "het_98"
+    },
+    {
+        "text": "I needed a raise in my allowance . Mowing the grass all summer just wasn't cutting it .",
+        "w_p": "cut",
+        "w_a": "cut",
+        "s_p": "shorten as if by severing the edges or ends of",
+        "s_a": "be able to manage or manage successfully",
+        "c_w": [
+            "mowing",
+            "raise",
+            "not cutting it",
+            "grass"
+        ],
+        "explanation": "This is a pun on 'cutting it'. If something 'isn't cutting it', it's taken to mean that it's not fully doing it's job/ not working. It's also being used here because when you mow the grass, you're cutting it",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_791"
+    },
+    {
+        "text": "Today is cancelled due to lack of interest !",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "het_180"
+    },
+    {
+        "text": "He that can have patience can have what he will .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_1882"
+    },
+    {
+        "text": "An heir is someone with a descent wage .",
+        "w_p": "descent",
+        "w_a": "decent",
+        "s_p": "the descendants of one individual",
+        "s_a": "meeting requirements",
+        "c_w": [
+            "heir"
+        ],
+        "explanation": "descent sounds like decent ",
+        "label": 1,
+        "is_het": true,
+        "id": "het_201"
+    },
+    {
+        "text": "A man of words and not of deeds, is like a garden full of weeds .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_887"
+    },
+    {
+        "text": "He who lends to the poor gets interest from god",
+        "w_p": "interest",
+        "w_a": "interest",
+        "s_p": "a sense of concern with and curiosity about someone or something",
+        "s_a": "a fixed charge for borrowing money; usually a percentage of the amount borrowed",
+        "c_w": [
+            "poor",
+            "god",
+            "lends"
+        ],
+        "explanation": "This is a pun about earning interest, as in interest rates on money and fascination, from god. Helping a poor person is considered a good gesture in the eyes of religion.  ",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_568"
+    },
+    {
+        "text": "There is no tree but bears some fruit .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_975"
+    },
+    {
+        "text": "Sushi : known to the rest of the world as ' Bait '",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_2167"
+    },
+    {
+        "text": "Stolen fruit is the sweetest .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "het_860"
+    },
+    {
+        "text": "If you love somebody, let them go, for if they return, they were always yours . And if they don ' t, they never were .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "het_1230"
+    },
+    {
+        "text": "A boy who instinctively waves at people has a natural hi .",
+        "w_p": "hi",
+        "w_a": "high",
+        "s_p": "an expression of greeting",
+        "s_a": "a state of altered consciousness induced by alcohol or narcotics; a state of sustained elation",
+        "c_w": [
+            "waves at people",
+            "natural"
+        ],
+        "explanation": "This is a pun on the word \"hi\". The word \"high\" has been replaced by the similar-sounding word \"hi\" because \"hi\" is a greeting that can be conveyed by waving at someone and this joke is about someone who waves at people instinctively. It is natural because he didn't intend to actually greet anyone, he waved without thinking about it.",
+        "label": 1,
+        "is_het": true,
+        "id": "het_689"
+    },
+    {
+        "text": "Why did the pig quit running the marathon ? He had a problem with his hamstring .",
+        "w_p": "hamstring",
+        "w_a": "ham",
+        "s_p": "one of the tendons at the back of the knee",
+        "s_a": "meat cut from the thigh of a hog (usually smoked)",
+        "c_w": [
+            "marathon",
+            "pig"
+        ],
+        "explanation": "The hamstring is a muscle that runs down the back of the thigh. Ham is meat from the upper part of a pig's leg. The word \"ham\" can be found in \"hamstring\" and the joke is referring to a pig that quit running a marathon due to a hamstring injury.",
+        "label": 1,
+        "is_het": true,
+        "id": "het_1283"
+    },
+    {
+        "text": "In his free time, my son in college hunts deer and sells the meat . He says the doe helps him with his expenses .",
+        "w_p": "doe",
+        "w_a": "dough",
+        "s_p": "mature female of mammals of which the male is called `buck'",
+        "s_a": "informal terms for money",
+        "c_w": [
+            "with",
+            "deer",
+            "expenses",
+            "helps",
+            "meat",
+            "hunts",
+            "sells"
+        ],
+        "explanation": "This is a pun on 'doe' which is a baby deer, but it's also being used because it sounds like 'dough' which is another term for money, which can help with expenses",
+        "label": 1,
+        "is_het": true,
+        "id": "het_247"
+    },
+    {
+        "text": "We now return to your previously - scheduled topics .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "het_1550"
+    },
+    {
+        "text": "I can do an excellent impression of Sinatra, said Tom, being perfectly frank .",
+        "w_p": "frank",
+        "w_a": "frank",
+        "s_p": "United States singer and film actor (1915-1998)",
+        "s_a": "characterized by directness in manner or speech; without subtlety or evasion",
+        "c_w": [
+            "impression",
+            "being perfectly",
+            "Sinatra"
+        ],
+        "explanation": "Frank Sinatra was a famous American singer. To \"be frank\" is to be candid, or open about something. Tom is being \"perfectly frank\" which can mean Tom is being perfectly direct, or Tom is impersonating Frank Sinatra perfectly.",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_959"
+    },
+    {
+        "text": "Asked by a waiter if she would like a drink the lady replied ' wine not ? '",
+        "w_p": "wine",
+        "w_a": "why",
+        "s_p": "fermented juice (of grapes especially)",
+        "s_a": "the cause or intention underlying an action or situation, especially in the phrase `the whys and wherefores'",
+        "c_w": [
+            "waiter",
+            "wine not",
+            "drink",
+            "replied",
+            "Asked"
+        ],
+        "explanation": "This is a play on words. The phrase \"why not\" is an affirmative response for when someone sees no reason not to do something but \"why\" sounds like \"wine\" meaning an alcoholic drink.",
+        "label": 1,
+        "is_het": true,
+        "id": "het_1616"
+    },
+    {
+        "text": "Daddy, how come my magnet won ' t pick up these disks ?",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_896"
+    },
+    {
+        "text": "The sun was bright on a dry, cloudless morning, but later it waned .",
+        "w_p": "wane",
+        "w_a": "rain",
+        "s_p": "become smaller; decrease in phase; grow smaller",
+        "s_a": "precipitate as rain",
+        "c_w": [
+            "sun",
+            "bright",
+            "waned"
+        ],
+        "explanation": "This is a play on words. The word \"waned\" means became weaker but \"waned\" also refers to when the sun or moon has a progressively smaller part of their visible surface illuminated.",
+        "label": 1,
+        "is_het": true,
+        "id": "het_1292"
+    },
+    {
+        "text": "When an actress saw her first strands of gray hair she thought she ' d dye .",
+        "w_p": "dye",
+        "w_a": "die",
+        "s_p": "color with dye",
+        "s_a": "be brought to or as if to the point of death by an intense emotion such as embarrassment, amusement, or shame",
+        "c_w": [
+            "hair",
+            "gray"
+        ],
+        "explanation": "Dye is a substance that adds color to something else. Die means to stop living. \"Dye\" sounds like \"die\". Sometimes when people see markers of aging, they \"want to die\" which means they're just really upset and freaking out. This joke is referring to hair, so dye can be understood literally. The actress is thinking of dying her hair. Or, it can be understood as the actress was extremely upset and \"thought she'd die\". ",
+        "label": 1,
+        "is_het": true,
+        "id": "het_943"
+    },
+    {
+        "text": "The dogs bark but the caravan passes on .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_205"
+    },
+    {
+        "text": "An army officer is a position that some people shoot for .",
+        "w_p": "shoot for",
+        "w_a": "shoot",
+        "s_p": "have an ambitious plan or a lofty goal",
+        "s_a": "fire a shot; hit with a missile from a weapon",
+        "c_w": [
+            "position",
+            "army officer"
+        ],
+        "explanation": "This is a pun. Shooting for a position means making it one's intent to achieve. Shooting also is what guns do to fire bullets. An army officer would likely use a gun. So the joke is that people literally shoot for that position.",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_740"
+    },
+    {
+        "text": "You should never take rocks for granite .",
+        "w_p": "granite",
+        "w_a": "granted",
+        "s_p": "plutonic igneous rock having visibly crystalline texture; generally composed of feldspar and mica and quartz",
+        "s_a": "acknowledged as a supposition",
+        "c_w": [
+            "rock"
+        ],
+        "explanation": "\"For granite\" sounds like \"for granted\". To take something for granted means to fail to appreciate something. A rock is a hard, naturally occurring mass made up of mineral material. Granite is a type of igneous rock. This joke is playing on the term \"for granite\" because it sounds like \"for granted\". ",
+        "label": 1,
+        "is_het": true,
+        "id": "het_177"
+    },
+    {
+        "text": "An argument over puppy selection is a pique of the litter .",
+        "w_p": "pique",
+        "w_a": "pick",
+        "s_p": "a sudden outburst of anger",
+        "s_a": "the person or thing chosen or selected",
+        "c_w": [
+            "litter",
+            "puppy",
+            "Argument"
+        ],
+        "explanation": "This is a pun on the phrase 'pick of the litter' which is the best one of a group. However, 'pique' is used in it's place because it sounds similar and because 'pique' means a feeling of irritation or resentment resulting from a slight, especially to one's pride, like what you'd feel if you gotten into an argument",
+        "label": 1,
+        "is_het": true,
+        "id": "het_1329"
+    },
+    {
+        "text": "My mate swallowed a cordless vacuum cleaner, they took him to hospital and he is picking up nicely .",
+        "w_p": "pick up",
+        "w_a": "pick",
+        "s_p": "improve significantly; go from bad to good; gain or regain energy",
+        "s_a": "look for and gather; remove unwanted substances from, such as feathers or pits; gather or collect",
+        "c_w": [
+            "picking up",
+            "swallowed",
+            "vacuum cleaner",
+            "hospital"
+        ],
+        "explanation": "This is a play on words. The phrase \"picking up\" means feeling better after a hospital stay but \"picking up\" refers to how vacuum cleaners (like the one the mate swallowed) are used to pick up debris.",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_1545"
+    },
+    {
+        "text": "For a fish, the end of a barbed hook is the ' ' point ' ' of no return .",
+        "w_p": "point",
+        "w_a": "point of no return",
+        "s_p": "sharp end",
+        "s_a": "a line that when crossed permits of no return and typically results in irrevocable commitment",
+        "c_w": [
+            "no return",
+            "fish",
+            "barbed hook"
+        ],
+        "explanation": "This is a play on words. The phrase \"point of no return\" means point after which you can no longer turn back. But fishhooks have a literal point, a sharp pointy end. This joke references how when a fish bites a hook it's the point of no return, because they can't turn back but also the point of no return because the fishhook has a literal point, or sharp pointed end.",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_1704"
+    },
+    {
+        "text": "OLD DOCTORS never die they just lose their patience .",
+        "w_p": "patience",
+        "w_a": "patient",
+        "s_p": "good-natured tolerance of delay or incompetence",
+        "s_a": "a person who requires medical care",
+        "c_w": [
+            "die",
+            "lose",
+            "DOCTORS"
+        ],
+        "explanation": "A doctor is a medical professional that gives care to people who are sick. \"Patience\" sounds like \"patients\". Patients are people that receive medical attention from doctors, or other healthcare professionals. To lose patience means to become easily frustrated. To lose patients means to stop seeing caring for someone that once sought medical treatment from you. This pun is a play on the word \"patience\" since it sounds like \"patients\". ",
+        "label": 1,
+        "is_het": true,
+        "id": "het_234"
+    },
+    {
+        "text": "A fisherman hated fish and chips but he didn ' t tell a sole .",
+        "w_p": "sole",
+        "w_a": "soul",
+        "s_p": "right-eyed flatfish; many are valued as food; most common in warm seas especially European",
+        "s_a": "a human being",
+        "c_w": [
+            "hated",
+            "fisherman"
+        ],
+        "explanation": "This is a pun on 'didnt tell a soul'  which means he didn't tell anyone, but 'sole' is used in it's place because it sounds exactly the same and 'sole' is a type of fish",
+        "label": 1,
+        "is_het": true,
+        "id": "het_1148"
+    },
+    {
+        "text": "I usually take steps to avoid elevators .",
+        "w_p": "steps",
+        "w_a": "step",
+        "s_p": "a flight of stairs or a flight of steps",
+        "s_a": "any maneuver made as part of progress toward a goal",
+        "c_w": [
+            "avoid",
+            "elevators"
+        ],
+        "explanation": "The joke is a pun.  'Taking steps' to avoid something generally means to have some kind of practice or habit that one does in order to avoid something they dislike.  If one avoids taking an elevator, they would have to use stairs most likely, and literally will have to 'take steps'.",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_2187"
+    },
+    {
+        "text": "Edison thought it would be an illuminating experience .",
+        "w_p": "illuminating",
+        "w_a": "illuminate",
+        "s_p": "tending to increase knowledge or dissipate ignorance; make lighter or brighter",
+        "s_a": "make free from confusion or ambiguity; make clear",
+        "c_w": [
+            "Edison"
+        ],
+        "explanation": "The joke is a pun. Thomas Edison is famous for the lightbulb, among other electric inventions.  Lightbulbs illuminate an area. An 'illuminating' experience is a learning experience that opens up one's mind to new ideas.",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_1042"
+    },
+    {
+        "text": "Scarecrows are always garden their patch .",
+        "w_p": "garden",
+        "w_a": "guard",
+        "s_p": "a plot of ground where plants are cultivated; work in the garden",
+        "s_a": "watch over or shield from danger or harm; protect; protect against a challenge or attack; to keep watch over",
+        "c_w": [
+            "patch",
+            "scarecrows"
+        ],
+        "explanation": "A scarecrow is an object made to resemble a human figure that is set up to scare birds away from a field where food is growing. A garden is a piece of land where vegetables or plants are grown. Garden sounds like \"guardin'\" or \"guarding\" which means to watch over in order to protect. This is a play on the word garden because it sounds like \"guarding\" and the joke is referring to a scarecrow protecting crops.",
+        "label": 1,
+        "is_het": true,
+        "id": "het_287"
+    },
+    {
+        "text": "Live by the sword, die by the sword .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_1910"
+    },
+    {
+        "text": "I ' m very picky about my hair, so a strange barber just won ' t cut it .",
+        "w_p": "cut",
+        "w_a": "cut",
+        "s_p": "shorten as if by severing the edges or ends of",
+        "s_a": "be able to manage or manage successfully",
+        "c_w": [
+            "picky",
+            "hair",
+            "won't cut it",
+            "barber"
+        ],
+        "explanation": "This is a play on words. The phrase \"won't cut it\" means the barber doesn't measure up to the speaker's standards. However, here the speaker saying a strange barber \"won't cut it\" means that the speaker won't allow the barber to cut their hair.",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_2023"
+    },
+    {
+        "text": "Fretting cares make grey hairs .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_519"
+    },
+    {
+        "text": "Drumming is not the way to catch a hare .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_1705"
+    },
+    {
+        "text": "Confidence is important ; the computer can sense fear .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_1669"
+    },
+    {
+        "text": "The president of a ladder manufacturer had to step down .",
+        "w_p": "step down",
+        "w_a": "step",
+        "s_p": "give up or retire from a position",
+        "s_a": "shift or move by taking a step",
+        "c_w": [
+            "president",
+            "ladder"
+        ],
+        "explanation": "Ladders are pieces of equipment with elevated steps, allowing one to climb up said steps to reach high places for various tasks. Ladders involve climbing up and climbing down to use them. \"To step down\" is a common way of saying resigning or changing positions in a work or organizational capacity. This is a wordplay on the overlap between \"ladder\" and \"step\".",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_1787"
+    },
+    {
+        "text": "Two banks with different rates have a conflict of interest .",
+        "w_p": "conflict of interest",
+        "w_a": "interest",
+        "s_p": "a situation in which a public official's decisions are influenced by the official's personal interests",
+        "s_a": "a fixed charge for borrowing money; usually a percentage of the amount borrowed",
+        "c_w": [
+            "banks",
+            "rates"
+        ],
+        "explanation": "Banks typically apply interest rates on things like loans, which is basically their way of profiting off of your loan payoffs. A conflict of interest is where two things that are involved with each other have some type of underlying issue. It's a plan on the phrase conflict of interest, as in the two banks have different interest rates.",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_1670"
+    },
+    {
+        "text": "There was a guy who played the organ in his garden to get organically grown food .",
+        "w_p": "organically",
+        "w_a": "organ",
+        "s_p": "in an organic manner",
+        "s_a": "wind instrument whose sound is produced by means of pipes arranged in sets supplied with air from a bellows and controlled from a large complex musical keyboard; a free-reeded instrument with a piano keyboard in which air is forced through the reeds by bellows",
+        "c_w": [
+            "garden",
+            "organically grown"
+        ],
+        "explanation": "This is a pun using the word \"organically\". The guy wants to grow his food organically, which means naturally without using chemicals. \"Organically\" has the word \"organ\" in it. The guy is playing an organ, which is an instrument similar to a piano, in his garden. ",
+        "label": 1,
+        "is_het": true,
+        "id": "het_1142"
+    },
+    {
+        "text": "I heard Einstein got along well with his parents . . . relatively speaking .",
+        "w_p": "relatively",
+        "w_a": "relativity",
+        "s_p": "in a relative manner; by comparison to something else",
+        "s_a": "(physics) the theory that space and time are relative concepts rather than absolute concepts",
+        "c_w": [
+            "parents",
+            "got along well",
+            "Einstein"
+        ],
+        "explanation": "This is a pun on 'relatively' which is initially referring to Einsteins relation to his parents as they are related, but its also being used since Einstein came up with the theory on relativity",
+        "label": 1,
+        "is_het": true,
+        "id": "het_1006"
+    },
+    {
+        "text": "I ' d love to, but the President said he might drop in .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "het_84"
+    },
+    {
+        "text": "Florida bumper sticker : DON ' T SHOOT ! I ' M LOCAL !",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_1097"
+    },
+    {
+        "text": "Did you hear about the tire dealer that had a blowout sale ?",
+        "w_p": "blowout",
+        "w_a": "blowout",
+        "s_p": "a gay festivity",
+        "s_a": "a sudden malfunction of a part or apparatus",
+        "c_w": [
+            "Tire",
+            "sale"
+        ],
+        "explanation": "This is a pun on 'blowout' which initially means an event at which goods are sold at heavily discounted prices, but 'blowout' can also be when your tires suddenly rupture",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_2064"
+    },
+    {
+        "text": "If you want her to show emotion, cut up her credit cards .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_155"
+    },
+    {
+        "text": "After Jimmy swallowed a live earthworm, he sat waiting with baited breath to see if he ' d get sick .",
+        "w_p": "bait",
+        "w_a": "bate",
+        "s_p": "something used to lure fish or other animals into danger so they can be trapped or killed; lure, entice, or entrap with bait",
+        "s_a": "moderate or restrain; lessen the force of; diminished or moderated",
+        "c_w": [
+            "waiting",
+            "live earthworm",
+            "baited breath",
+            "swallowed"
+        ],
+        "explanation": "The joke is a pun.  The word 'baited' was used instead for the phrase 'bated breath'.  'Bated breath' means in great suspense, very anxiously, or excitedly. 'Bait' or 'baited' are words that would refer to bait for fishing, such as live worms.",
+        "label": 1,
+        "is_het": true,
+        "id": "het_1299"
+    },
+    {
+        "text": "Here, you go first, you ' re immune to bullets .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_632"
+    },
+    {
+        "text": "Nature, time, and patience are three great physicians .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_1522"
+    },
+    {
+        "text": "Did you hear about the guy who planted bullets ? He wanted to see a lot of little shoots .",
+        "w_p": "shoot",
+        "w_a": "shoot",
+        "s_p": "a new branch",
+        "s_a": "the act of shooting at targets",
+        "c_w": [
+            "planted",
+            "shoots",
+            "bullets"
+        ],
+        "explanation": "In botany, shoots are short plants that have just grown in. Bullets are metal projectiles that are used to fill guns. A gun is weapon that shoots bullets, or expels bullets. The joke is on the word \"shoots\" and its different meanings. ",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_908"
+    },
+    {
+        "text": "The man who dies with the most toys is still dead .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_1662"
+    },
+    {
+        "text": "As to how to play snooker, some people don ' t have a cue .",
+        "w_p": "cue",
+        "w_a": "clue",
+        "s_p": "sports implement consisting of a tapering rod used to strike a cue ball in pool or billiards",
+        "s_a": "a slight indication",
+        "c_w": [
+            "play",
+            "snooker"
+        ],
+        "explanation": "The joke is a play on words. Snooker is a game like billiards that is played by using a pool cue.  'Cue' sounds similar to 'clue' so in the phrase 'some people don't have a clue', the word used instead was 'cue'.",
+        "label": 1,
+        "is_het": true,
+        "id": "het_121"
+    },
+    {
+        "text": "I really regretted the inconsiderate comment I made . It was rued .",
+        "w_p": "rued",
+        "w_a": "rude",
+        "s_p": "feel remorse for; feel sorry for; be contrite about",
+        "s_a": "lacking civility or good manners; - Willa Cather; socially incorrect in behavior",
+        "c_w": [
+            "comment",
+            "regretted",
+            "inconsiderate"
+        ],
+        "explanation": "Rued means to regret something. Rued sounds like rude. Here, the person is saying they regret their inconsiderate comment which could be considered rude, but the word rued was used instead. ",
+        "label": 1,
+        "is_het": true,
+        "id": "het_1290"
+    },
+    {
+        "text": "People only throw stones at trees with fruit on them .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_982"
+    },
+    {
+        "text": "The stress of having his beloved pet bunny die caused a man to go bald - - he was very upset about losing his hare .",
+        "w_p": "hare",
+        "w_a": "hair",
+        "s_p": "swift timid long-eared mammal larger than a rabbit having a divided upper lip and long hind legs; young born furred and with open eyes",
+        "s_a": "a covering for the body (or parts of it) consisting of a dense growth of threadlike structures (as on the human head); helps to prevent heat loss",
+        "c_w": [
+            "caused",
+            "upset",
+            "bunny",
+            "stress",
+            "pet",
+            "losing his hare",
+            "die",
+            "bald"
+        ],
+        "explanation": "Bunny is a colloquial term for young rabbits and hares. Hare sounds like hair, the loss of which is to go bald. The man is upset at the death of his pet and the resulting loss of his hair. ",
+        "label": 1,
+        "is_het": true,
+        "id": "het_580"
+    },
+    {
+        "text": "Barking dogs seldom bite .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_123"
+    },
+    {
+        "text": "I tried to play the bagpipes, but the sound coming out was off kilter .",
+        "w_p": "kilter",
+        "w_a": "kilt",
+        "s_p": "in working order",
+        "s_a": "a knee-length pleated tartan skirt worn by men as part of the traditional dress in the Highlands of northern Scotland",
+        "c_w": [
+            "sound",
+            "tried",
+            "off kilter",
+            "play",
+            "bagpipes"
+        ],
+        "explanation": "Bagpipes are instruments traditionally used in celtic cultures, like scotland or ireland. Scotish traditional garb consist of kilts, or plaid skirts. Off kilter has the word kilt in it, and means not in the usual state or unusual. ",
+        "label": 1,
+        "is_het": true,
+        "id": "het_1703"
+    },
+    {
+        "text": "New religion ? I haven ' t used up the old one, yet !",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_332"
+    },
+    {
+        "text": "You can catch more flies with a drop of honey than with a barrel of vinegar .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_826"
+    },
+    {
+        "text": "The boy ' s guitar teacher helped him pick up his skills .",
+        "w_p": "guitar pick",
+        "w_a": "pick up",
+        "s_p": "a plectrum used to pluck a guitar",
+        "s_a": "improve significantly; go from bad to good",
+        "c_w": [
+            "his skills",
+            "guitar teacher"
+        ],
+        "explanation": "The boy improved his guitar skills, and 'pick up' is a pun on the picks that guitarists use to play.",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_1214"
+    },
+    {
+        "text": "Even covered in salad dressing my lettuce looked bare, so I put some cloves on it .",
+        "w_p": "clove",
+        "w_a": "clothes",
+        "s_p": "spice from dried unopened flower bud of the clove tree; used whole or ground",
+        "s_a": "clothing in general",
+        "c_w": [
+            "cloves",
+            "salad dressing",
+            "lettuce"
+        ],
+        "explanation": "The person put salad dressing (dressing here is to be interpreted as clothes) on the lettuce. But it needed more clothes. Cloves sounds close to the word clothes. ",
+        "label": 1,
+        "is_het": true,
+        "id": "het_987"
+    },
+    {
+        "text": "Great spirits have always encountered violent opposition from mediocre minds .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "het_884"
+    },
+    {
+        "text": "Don ' t go between the tree and the bark .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_724"
+    },
+    {
+        "text": "When an Agnostic dies, does he go to the Great Perhaps ?",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "het_1559"
+    },
+    {
+        "text": "Saw makers losing money have to make lots of cuts .",
+        "w_p": "cut",
+        "w_a": "cut",
+        "s_p": "the act of cutting something into parts",
+        "s_a": "the act of reducing the amount or number",
+        "c_w": [
+            "saw makers",
+            "cuts",
+            "losing money"
+        ],
+        "explanation": "This is a pun on the word \"cuts\". Saws make cuts into wood. When a business loses money, they make \"cuts\", which means they get rid of expenses so they can earn more profit. The joke is about people who are in the business of making saws.",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_924"
+    },
+    {
+        "text": "A heavy drinker of hard liquor appears to be in high spirits .",
+        "w_p": "spirits",
+        "w_a": "in high spirits",
+        "s_p": "an alcoholic beverage that is distilled rather than fermented",
+        "s_a": "happy and excited and energetic",
+        "c_w": [
+            "liquor",
+            "drinker"
+        ],
+        "explanation": "This is a pun on 'high spirits' which means lively and cheerful behavior or mood, but it's also being used because 'spirits' is another name for liquor ",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_2051"
+    },
+    {
+        "text": "Though thou hast ever so many counsellors, yet do not forsake the counsel of thy own soul .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_1788"
+    },
+    {
+        "text": "Everybody was in shock when the hair stylist dyed .",
+        "w_p": "dye",
+        "w_a": "die",
+        "s_p": "color with dye",
+        "s_a": "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+        "c_w": [
+            "hair stylist",
+            "Everybody",
+            "in shock",
+            "dyed"
+        ],
+        "explanation": "This is a pun on 'died' which means to cease to exist, but 'dyed' is used in it's place because it sounds similar and because it means having been colored with a dye, like you do with hair ",
+        "label": 1,
+        "is_het": true,
+        "id": "het_224"
+    },
+    {
+        "text": "Curiosity killed the cat .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_439"
+    },
+    {
+        "text": "Kill them all ! . . . . Let God sort them out .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "het_1565"
+    },
+    {
+        "text": "If towels could tell jokes they would probably have a dry sense of humor .",
+        "w_p": "dry",
+        "w_a": "dry",
+        "s_p": "free from liquid or moisture; lacking natural or normal moisture or depleted of water; or no longer wet",
+        "s_a": "humorously sarcastic or mocking",
+        "c_w": [
+            "jokes",
+            "humor",
+            "towels"
+        ],
+        "explanation": "This is a pun on \"dry\". Dry humor is a type of humor in which the person telling the joke shows no emotion. The word \"dry\" means to make something not wet. The purpose of a towel is to wipe off water to make something dry.   ",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_799"
+    },
+    {
+        "text": "It is better to die on one ' s feet than live on one ' s knees .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_1793"
+    },
+    {
+        "text": "A band of teenagers cruised past my neighbor ' s house and pelted it with rotten tomatoes . Police described it as a drive - by fruiting .",
+        "w_p": "fruit",
+        "w_a": "shooting",
+        "s_p": "the ripened reproductive body of a seed plant",
+        "s_a": "killing someone by gunfire; the act of firing a projectile",
+        "c_w": [
+            "rotten tomatoes",
+            "teenagers",
+            "neighbor' s house",
+            "drive - by fruiting"
+        ],
+        "explanation": "This is a play on words. The term \"drive-by shooting\" is a type of assault where perpetrators fire weapons from a motor vehicle. However, \"shooting\" sounds like \"fruiting\" which in this context involves teenagers shooting fruit and a building instead of guns.",
+        "label": 1,
+        "is_het": true,
+        "id": "het_1457"
+    },
+    {
+        "text": "Guns don ' t kill people . Bullets kill people .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "het_52"
+    },
+    {
+        "text": "I took up teaching fencing as I wanted my students to get the point .",
+        "w_p": "point",
+        "w_a": "point",
+        "s_p": "a brief version of the essential meaning of something",
+        "s_a": "sharp end",
+        "c_w": [
+            "teaching",
+            "fencing"
+        ],
+        "explanation": "Fencing is a type of sport. Each touch in fencing is worth one point. To \"get the point\" can mean successfully touching the opponent with the sabre, but it can also mean \"to understand\". This joke is playing on the different interpretations of \"get the point\".",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_196"
+    },
+    {
+        "text": "A doctor who became a bartender was always giving out shots !",
+        "w_p": "shot",
+        "w_a": "shot",
+        "s_p": "the act of putting a liquid into the body by means of a syringe",
+        "s_a": "a small drink of liquor",
+        "c_w": [
+            "doctor",
+            "became",
+            "giving out",
+            "bartender",
+            "shots"
+        ],
+        "explanation": "In medicine, a shot is an injection containing material for either immune support or perhaps pain relief. In bar talk, a shot is a 1.5 oz pour of alcohol. ",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_145"
+    },
+    {
+        "text": "The hot dog vendor answered, with a tone quite frank .",
+        "w_p": "frank",
+        "w_a": "frank",
+        "s_p": "a smooth-textured sausage of minced beef or pork usually smoked; often served on a bread roll",
+        "s_a": "characterized by directness in manner or speech; without subtlety or evasion",
+        "c_w": [
+            "hot dog vendor",
+            "quite frank",
+            "answered",
+            "tone"
+        ],
+        "explanation": "This is a pun on 'frank' which means open, honest, and direct in speech or writing, especially when dealing with unpalatable matters, but it's also being used because 'frank' is another term for hot dog",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_637"
+    },
+    {
+        "text": "If you trust before you try, you may repent before you die .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_772"
+    },
+    {
+        "text": "Good wine needs no bush .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "het_1701"
+    },
+    {
+        "text": "Sometimes a pencil sharpener is needed in order to make a good point .",
+        "w_p": "point",
+        "w_a": "point",
+        "s_p": "sharp end",
+        "s_a": "a brief version of the essential meaning of something",
+        "c_w": [
+            "good point",
+            "make",
+            "pencil sharpener"
+        ],
+        "explanation": "This is a play on words. The phrase \"make a good point\" means to make a fair or interesting argument. However, \"make a good point\" also refers to making the end of a pencil sharp, as one does using a pencil sharpener.",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_1972"
+    },
+    {
+        "text": "Easter is more than something to dye for",
+        "w_p": "dye",
+        "w_a": "die",
+        "s_p": "color with dye",
+        "s_a": "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+        "c_w": [
+            "dye for",
+            "Easter"
+        ],
+        "explanation": "The joke is a pun.  To say something is 'to die for' is to say that it is something very fun, enjoyable, or good.  'Die' sounds like 'dye', which means to color something with dyes.  Dying eggs is a tradition for many during Easter.",
+        "label": 1,
+        "is_het": true,
+        "id": "het_704"
+    },
+    {
+        "text": "The prodigal son was having a bad heir day .",
+        "w_p": "heir",
+        "w_a": "hair",
+        "s_p": "a person who is entitled by law or by the terms of a will to inherit the estate of another",
+        "s_a": "a covering for the body (or parts of it) consisting of a dense growth of threadlike structures (as on the human head); helps to prevent heat loss",
+        "c_w": [
+            "prodigal son",
+            "day"
+        ],
+        "explanation": "This is a pun on \"heir\". The prodigal son was having a bad hair day. Hair sounds like heir. An heir is a person who has the legal right to the rank or property of someone who has died. The prodigal son is from a bible story about a son who inherits his father's fortune and wastes it all. Thus, he was a \"bad heir\".",
+        "label": 1,
+        "is_het": true,
+        "id": "het_510"
+    },
+    {
+        "text": "In medical school he worried about passing as a surgeon, but he made the cut .",
+        "w_p": "cut",
+        "w_a": "cut",
+        "s_p": "a wound made by cutting",
+        "s_a": "a step on some scale",
+        "c_w": [
+            "medical",
+            "surgeon"
+        ],
+        "explanation": "A surgeon is a doctor that helps heal people through surgery. Surgery is characterized by cutting into someone and removing something that doesn't belong, or fixing something that needs to be fixed. To make the cut means to meet a requirement.  This joke is playing on the word \"cut\" and its different meanings. ",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_1588"
+    },
+    {
+        "text": "Did you hear about the vampire who used to torture his victims with music ? His Bach was worse than his bite .",
+        "w_p": "bach",
+        "w_a": "bark",
+        "s_p": "the music of Bach",
+        "s_a": "the sound made by a dog",
+        "c_w": [
+            "Bach",
+            "vampire",
+            "worse than",
+            "bite",
+            "music"
+        ],
+        "explanation": "This is a play on words. \"Bach\" is the the name of a famous classical composer but sounds like \"bark\" as in the famous expression \"his bark is worse than his bite\" . Vampires are known for biting but since the vampire tortured his victims with music, his \"Bach\", or the classical music he plays, is worse than his bite.",
+        "label": 1,
+        "is_het": true,
+        "id": "het_1422"
+    },
+    {
+        "text": "Decimals have a point .",
+        "w_p": "point",
+        "w_a": "point",
+        "s_p": "a brief version of the essential meaning of something; the object of an activity",
+        "s_a": "the dot at the left of a decimal fraction",
+        "c_w": [
+            "Decimals",
+            "have"
+        ],
+        "explanation": "The joke is a pun.  When reading a decimal number out loud, the period is read as 'point' or 'dot', for example 'one point five'.  To say something 'has a point' means that it has some reason or meaning .",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_2177"
+    },
+    {
+        "text": "The study of genealogy is a basic requirement for a descent education .",
+        "w_p": "descent",
+        "w_a": "decent",
+        "s_p": "the descendants of one individual",
+        "s_a": "meeting requirements",
+        "c_w": [
+            "education",
+            "genealogy"
+        ],
+        "explanation": "Descent sounds close to \"decent\" . The word descent describes the origin or background of a person in terms of their family. A \"decent\", or satisfactory education is what people often seek. Genealogy is the study of families and lineage tracing. The joke is playing on the word descent. ",
+        "label": 1,
+        "is_het": true,
+        "id": "het_662"
+    },
+    {
+        "text": "This building is so high, the elevator shows movies .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_1289"
+    },
+    {
+        "text": "The mime wanted to say something, but he wasn ' t aloud .",
+        "w_p": "aloud",
+        "w_a": "allow",
+        "s_p": "using the voice; not silently",
+        "s_a": "consent to, give permission",
+        "c_w": [
+            "say",
+            "mime"
+        ],
+        "explanation": "A mime is a performer who is silent, and utilizes just body movements and expressions to convey information. Aloud, in this case, is replacing \"allowed\", as in being able or permissible to do something. Aloud means out loud, so the mime isn't allowed or aloud in both cases.",
+        "label": 1,
+        "is_het": true,
+        "id": "het_1755"
+    },
+    {
+        "text": "A farmer wanting to kill a chicken for dinner has to move faster than a speeding pullet .",
+        "w_p": "pullet",
+        "w_a": "bullet",
+        "s_p": "young hen usually less than a year old",
+        "s_a": "a projectile that is fired from a gun",
+        "c_w": [
+            "kill",
+            "chicken",
+            "speeding pullet"
+        ],
+        "explanation": "This is a pun on the word \"pullet\". The word \"bullet\" in the Superman quote \"faster than a speeding bullet\" has been replaced by the similar-sounding word \"pullet\" because a \"pullet\" is a young hen and this joke is about chasing chickens.",
+        "label": 1,
+        "is_het": true,
+        "id": "het_188"
+    },
+    {
+        "text": "Bureaucrats cut red tape - - lengthwise .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "het_368"
+    },
+    {
+        "text": "French bankers are known for their franc talk .",
+        "w_p": "franc",
+        "w_a": "frank",
+        "s_p": "the basic monetary unit in many countries; equal to 100 centimes",
+        "s_a": "characterized by directness in manner or speech; without subtlety or evasion",
+        "c_w": [
+            "French",
+            "known for",
+            "talk",
+            "bankers"
+        ],
+        "explanation": "A franc is a monetary unit used in France. Franc sounds like frank. To be frank means to be open, honest and direct. The joke here could mean that the bankers are known for talking about francs (the currency) or for being frank in their speech (direct).",
+        "label": 1,
+        "is_het": true,
+        "id": "het_1580"
+    },
+    {
+        "text": "The first step to health is to know that we are sick .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_577"
+    },
+    {
+        "text": "The satellite went into orbit on January 1st causing a new year ' s revolution .",
+        "w_p": "revolution",
+        "w_a": "resolution",
+        "s_p": "a single complete turn (axial or orbital)",
+        "s_a": "a decision to do something or to behave in a certain manner",
+        "c_w": [
+            "new year' s revolution",
+            "January 1st",
+            "orbit",
+            "satellite"
+        ],
+        "explanation": "This is a pun on 'New Year's resolution' which is when a person resolves to continue good practices, change an undesired trait or behavior, accomplish a personal goal, or otherwise improve their behaviour. 'Revolution' is used in it's place because it sounds similar and because when a satellite orbits the planet it's known as a resolution ",
+        "label": 1,
+        "is_het": true,
+        "id": "het_761"
+    },
+    {
+        "text": "OLD HAIRDRESSERS never dye . . . or cut .",
+        "w_p": "dye",
+        "w_a": "die",
+        "s_p": "color with dye",
+        "s_a": "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+        "c_w": [
+            "cut",
+            "hairdressers"
+        ],
+        "explanation": "This joke gets extra credit for breaking the formula. To 'dye' hair means to color it, while 'dying' means to pass on. The listener realizes the alternate 'dye' that is used here (as in to color, not pass away), when they hear 'or cut'.",
+        "label": 1,
+        "is_het": true,
+        "id": "het_956"
+    },
+    {
+        "text": "My wife really likes to make pottery, but to me it ' s just kiln time .",
+        "w_p": "kiln",
+        "w_a": "kill",
+        "s_p": "a furnace for firing or burning or drying such things as porcelain or bricks",
+        "s_a": "cause to cease operating",
+        "c_w": [
+            "wife",
+            "pottery"
+        ],
+        "explanation": "Kiln time sounds like \"killin' time\", which is an expression for just going through the hours for the sake of making time go by. A kiln is a forge that potters use to heat their products in. ",
+        "label": 1,
+        "is_het": true,
+        "id": "het_387"
+    },
+    {
+        "text": "No pain, no gain .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_967"
+    },
+    {
+        "text": "Good girls go to heaven . Bad girls go EVERYwhere .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_1740"
+    },
+    {
+        "text": "A cat ate some cheese and waited for a mouse with baited breath .",
+        "w_p": "bait",
+        "w_a": "bate",
+        "s_p": "lure, entice, or entrap with bait",
+        "s_a": "moderate or restrain; lessen the force of",
+        "c_w": [
+            "baited breath",
+            "mouse",
+            "cat ate",
+            "waited",
+            "cheese"
+        ],
+        "explanation": "Baited is the past tense of bait; bait means to prepare a trap with something to entice animals. It's a predatory action. To \"wait with baited breath\" can be understood literally. The cat ate the cheese, the scent of that cheese is still on the cat's breath which could bait the mouse. To \"wait with baited breath\" can also mean to wait in a nervous and excited state in anticipation of what's to happen. ",
+        "label": 1,
+        "is_het": true,
+        "id": "het_318"
+    },
+    {
+        "text": "Lumber companies have many board meetings .",
+        "w_p": "board",
+        "w_a": "board",
+        "s_p": "a committee having supervisory powers",
+        "s_a": "a stout length of sawn timber; made in a wide variety of sizes and used for many purposes",
+        "c_w": [
+            "companies",
+            "lumber",
+            "meetings"
+        ],
+        "explanation": "A board is a group of people that are the decision-making body of a company. A board can also mean a long, thin, flat piece of wood that can be used to build floors. A lumber company is a company that sells lumber, which is wood that has been processed into beams. This joke is a play on the term \"board meetings\".",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_1970"
+    },
+    {
+        "text": "Deeds are fruits, words are but leaves .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_1599"
+    },
+    {
+        "text": "\" Please return stewardess to original upright position \"",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "het_1376"
+    },
+    {
+        "text": "Don ' t cut off your nose to spite your face .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "het_916"
+    },
+    {
+        "text": "In an attempt to kill a fly, I drove into a pole .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "het_29"
+    },
+    {
+        "text": "Pick your friends, but not to pieces",
+        "w_p": "pick",
+        "w_a": "pick",
+        "s_p": "select carefully from a group",
+        "s_a": "harass with constant criticism",
+        "c_w": [
+            "pieces",
+            "friends"
+        ],
+        "explanation": "To \"pick something to pieces\" means to criticize all aspects of something. \"To pick\" means to select. The joke is centered on the word pick and how it can be used to describe selecting something, or to criticize something.",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_2150"
+    },
+    {
+        "text": "We are born crying, live complaining, die disappointed",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_874"
+    },
+    {
+        "text": "You ' re not losing more hair, you ' re gaining more scalp .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "het_1672"
+    },
+    {
+        "text": "( a ) Fast, ( b ) Reliable, ( c ) Inexpensive - Pick Two .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_370"
+    },
+    {
+        "text": "The steward refused to swallow the harsh whine of the petulant cabernet peddler .",
+        "w_p": "whine",
+        "w_a": "wine",
+        "s_p": "a complaint uttered in a plaintive whining way",
+        "s_a": "fermented juice (of grapes especially)",
+        "c_w": [
+            "refused to swallow",
+            "cabernet peddler"
+        ],
+        "explanation": "\"To swallow the harsh whine\" means to put up with complaining. Whine sounds like wine. Cabernet is a type of wine. Wine is an alcoholic drink, whereas whine is a sound made to express a complaint.",
+        "label": 1,
+        "is_het": true,
+        "id": "het_1094"
+    },
+    {
+        "text": "Are giraffes good pets or are they too high maintenance ?",
+        "w_p": "high",
+        "w_a": "high",
+        "s_p": "greater than normal in degree or intensity or amount",
+        "s_a": "(literal meaning) being at or having a relatively great or specific elevation or upward extension (sometimes used in combinations like `knee-high')",
+        "c_w": [
+            "good pets",
+            "giraffes",
+            "too high maintenance"
+        ],
+        "explanation": "This is a play on words. The word \"high maintenance\" means demanding a lot of attention but \"high\" also refers to how giraffe's necks are so long that they're high in the sky.",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_2239"
+    },
+    {
+        "text": "Don ' t bark if you can ' t bite .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_2219"
+    },
+    {
+        "text": "I used to hate maths but then I realised decimals have a point .",
+        "w_p": "point",
+        "w_a": "point",
+        "s_p": "the dot at the left of a decimal fraction",
+        "s_a": "a brief version of the essential meaning of something; the object of an activity",
+        "c_w": [
+            "decimals",
+            "maths"
+        ],
+        "explanation": "This is a pun on the word \"point\". In mathematics, a decimal number has a point, or dot, that indicates that it is not a whole number. The phrase \"have a point\" means that you have a good reason to support an argument. It can also mean that something has a purpose. In the joke, the person might have disliked maths because they thought it had no purpose, no good reason to be used. But because they saw the point, or value, in decimals, they like the subject now. They also saw the literal point, or dot, in the decimal number.",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_1875"
+    },
+    {
+        "text": "I ' m not rude, I ' m \" attitudinally challenged \" .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "het_741"
+    },
+    {
+        "text": "Derringer had one shot at fame .",
+        "w_p": "shot",
+        "w_a": "shot",
+        "s_p": "the act of firing a projectile",
+        "s_a": "a chance to do something",
+        "c_w": [
+            "fame",
+            "Derringer"
+        ],
+        "explanation": "This is a play on words. Derringer is a small handgun. The phrase \"one shot at fame\" means one chance to achieve something but here \"shot\" refers to the gunshot a Derringer can produce.",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_2222"
+    },
+    {
+        "text": "Why do archers shoot arrows ? Could it be they are trying to get a point across ?",
+        "w_p": "point",
+        "w_a": "point",
+        "s_p": "sharp end",
+        "s_a": "a brief version of the essential meaning of something",
+        "c_w": [
+            "archer",
+            "arrows",
+            "point across"
+        ],
+        "explanation": "The tip of an arrow has a point. A point is the sharp end of a tool. Point can also refer to a concept, or an explanation. Getting \"a point across\" means to convey a concept. This joke is playing on the word \"point\" and its different meanings.",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_1991"
+    },
+    {
+        "text": "The spirit is willing but the flesh is weak .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_445"
+    },
+    {
+        "text": "Good clothes open all doors .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_1959"
+    },
+    {
+        "text": "You must not run after two hares at the same time .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_1313"
+    },
+    {
+        "text": "He owned a fish farm until he poured out his sole .",
+        "w_p": "sole",
+        "w_a": "soul",
+        "s_p": "right-eyed flatfish; many are valued as food; most common in warm seas especially European",
+        "s_a": "the immaterial part of a person; the actuating cause of an individual life",
+        "c_w": [
+            "fish farm",
+            "poured out",
+            "owned"
+        ],
+        "explanation": "A sole is a type of fish, and sounds like soul as in pouring your soul out.",
+        "label": 1,
+        "is_het": true,
+        "id": "het_1449"
+    },
+    {
+        "text": "A pediatrician is a doctor of little patients .",
+        "w_p": "patients",
+        "w_a": "patience",
+        "s_p": "a person who requires medical care",
+        "s_a": "good-natured tolerance of delay or incompetence",
+        "c_w": [
+            "little",
+            "pediatrician",
+            "doctor"
+        ],
+        "explanation": "A pediatrician is a doctor that treats people 21 years old or younger (so children, infants, teenagers). Little patients sounds like \"little patience\". When someone has \"little patience\" it means that they do not have a lot of tolerance for whining or delays. The text can be understood as the pediatrician treats young people, or that the pediatrician has little patience.",
+        "label": 1,
+        "is_het": true,
+        "id": "het_886"
+    },
+    {
+        "text": "Speed doesn ' t kill . Stopping very fast kills .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_515"
+    },
+    {
+        "text": "Your E - mail has been returned due to insufficient voltage",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_1811"
+    },
+    {
+        "text": "If there is no God, who pops up the next Kleenex ?",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_1205"
+    },
+    {
+        "text": "Maybe I should cut the power before I - - ZZZAAPPOWWWWWW",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "het_1120"
+    },
+    {
+        "text": "Crows will not pick out crows eyes .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "het_1409"
+    },
+    {
+        "text": "Britain is a wet place since the queen has had a long reign .",
+        "w_p": "reign",
+        "w_a": "rain",
+        "s_p": "the period during which a monarch is sovereign",
+        "s_a": "water falling in drops from vapor condensed in the atmosphere",
+        "c_w": [
+            "Britain",
+            "queen",
+            "long reign",
+            "wet place"
+        ],
+        "explanation": "This is a pun on the word \"reign\". \"Reign\" means to rule. The Queen has ruled England for a long time, so she has had a \"long reign\". \"Reign\" sounds like \"rain\". In Britain it can be very rainy, which is why they say it is a wet place. So Britain has had a \"long rain\" as well as a \"long reign\" (of their queen).",
+        "label": 1,
+        "is_het": true,
+        "id": "het_849"
+    },
+    {
+        "text": "His business plan to manufacture scissors just didn't cut it .",
+        "w_p": "cut",
+        "w_a": "cut",
+        "s_p": "separate with or as if with an instrument",
+        "s_a": "be able to manage or manage successfully",
+        "c_w": [
+            "business plan",
+            "scissors",
+            "cut it"
+        ],
+        "explanation": "This is a play on words. Scissors are a tool for cutting things. \"Didn't cut it\" is a phrase meaning that something is insufficient or not enough to succeed, in this case the subject's business plan. His scheme to manufacture a cutting tool did not \"cut it\".",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_224"
+    },
+    {
+        "text": "In times like these the value of Chinese currency should make Americans pay attention . Instead, too many of us just yuan .",
+        "w_p": "yuan",
+        "w_a": "yawn",
+        "s_p": "the basic unit of money in China",
+        "s_a": "utter a yawn, as from lack of oxygen or when one is tired",
+        "c_w": [
+            "value",
+            "Chinese currency"
+        ],
+        "explanation": "Yuan is a type of currency used in China. Yuan sounds like \"yawn\" in English. The joke is saying that too many people are \"yawning\" or are too lax because they are not paying attention to the value of the Chinese currency.",
+        "label": 1,
+        "is_het": true,
+        "id": "het_564"
+    },
+    {
+        "text": "Getting into the skunk selling business might make a lot of scents .",
+        "w_p": "scent",
+        "w_a": "sense",
+        "s_p": "any property detected by the olfactory system",
+        "s_a": "sound practical judgment",
+        "c_w": [
+            "selling",
+            "a lot of scents",
+            "make",
+            "skunk",
+            "might"
+        ],
+        "explanation": "The joke is a pun. 'Scents' means smells, like how skunks have strong smells, but the word sounds just like 'cents' meaning coins, or money, and it also sounds like 'sense' which is a rational idea that has understandable reasoning.",
+        "label": 1,
+        "is_het": true,
+        "id": "het_1518"
+    },
+    {
+        "text": "A young nurse was nervous about giving vaccinations but gave it her best shot .",
+        "w_p": "shot",
+        "w_a": "shot",
+        "s_p": "the act of putting a liquid into the body by means of a syringe",
+        "s_a": "a chance to do something",
+        "c_w": [
+            "best shot",
+            "nervous",
+            "vaccinations",
+            "nurse",
+            "giving",
+            "gave it"
+        ],
+        "explanation": "This is a pun on the phrase 'give it your best shot' which means to do the best that one can, but it's also being used because giving someone a vaccination, usually means giving someone a shot as in an injection of a drug or vaccine.",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_1381"
+    },
+    {
+        "text": "Those with scissors shouldn ' t use cutting words .",
+        "w_p": "cutting",
+        "w_a": "cutting",
+        "s_p": "(of speech) harsh or hurtful in tone or character",
+        "s_a": "the act of cutting something into parts",
+        "c_w": [
+            "words",
+            "scissors"
+        ],
+        "explanation": "This is a play on words. The phrase \"cutting words\" means words spoken forcefully but \"cutting\" also refers to scissors cutting paper.",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_711"
+    },
+    {
+        "text": "At some executive meetings there is a chairman of the bored .",
+        "w_p": "bored",
+        "w_a": "board",
+        "s_p": "uninterested because of frequent exposure or indulgence",
+        "s_a": "a committee having supervisory powers",
+        "c_w": [
+            "chairman",
+            "meetings"
+        ],
+        "explanation": "This is a play on words. A \"chairman of the board\" means the principal officer of a corporation but \"bored\" means feeling weary due to disinterest.",
+        "label": 1,
+        "is_het": true,
+        "id": "het_672"
+    },
+    {
+        "text": "Kill your darlings .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "het_1366"
+    },
+    {
+        "text": "A group called the Balloons sings pop music .",
+        "w_p": "pop",
+        "w_a": "pop",
+        "s_p": "music of general appeal to teenagers; a bland watered-down version of rock'n'roll with more rhythm and harmony and an emphasis on romantic love",
+        "s_a": "burst open with a sharp, explosive sound",
+        "c_w": [
+            "Balloons",
+            "group",
+            "pop music"
+        ],
+        "explanation": "Pop' is short for 'popular' music, but here it's also a pun on what happens to balloons when they meet sharp objects.",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_203"
+    },
+    {
+        "text": "Pick Pockets 50 % Climb Walls 75 % Steal Tagline 99 %",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_1641"
+    },
+    {
+        "text": "A teacher used his index finger to ask a lot of pointed questions .",
+        "w_p": "pointed",
+        "w_a": "point",
+        "s_p": "direct and obvious in meaning or reference; often unpleasant",
+        "s_a": "indicate a place, direction, person, or thing; either spatially or figuratively",
+        "c_w": [
+            "questions",
+            "finger",
+            "index"
+        ],
+        "explanation": "A pointed question is a question that gets directly to the very important part of the issue. An index finger is used for pointing. The word \"pointed\" references the person's index finger but also the kind of questions the teacher asked.",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_1349"
+    },
+    {
+        "text": "Do hotel managers get board with their jobs ?",
+        "w_p": "board",
+        "w_a": "bored",
+        "s_p": "food or meals in general; a committee having supervisory powers",
+        "s_a": "uninterested because of frequent exposure or indulgence",
+        "c_w": [
+            "jobs",
+            "hotel managers"
+        ],
+        "explanation": "I think the joke is a pun.  Do hotel managers have a board for room vacancies? It might be a reference to the phrase 'room and board'. Regardless, the word 'bored' as in 'boredom' has been replaced with 'board' as in 'room and board'.",
+        "label": 1,
+        "is_het": true,
+        "id": "het_863"
+    },
+    {
+        "text": "A short cut is the longest distance between two points .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "het_1513"
+    },
+    {
+        "text": "If you don ' t know how to choose music ask a guitarist - they know how to pick .",
+        "w_p": "pick",
+        "w_a": "pick",
+        "s_p": "select carefully from a group",
+        "s_a": "pull lightly but sharply with a plucking motion",
+        "c_w": [
+            "ask",
+            "choose music",
+            "guitarist"
+        ],
+        "explanation": "A pick is a tool used to strum the cords on a guitar. A guitarist that knows how to pick music means they have good taste and know what a good selection is. The joke is using the word pick to show selection (the verb form) and the noun form is what is used to strum a guitar. ",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_2159"
+    },
+    {
+        "text": "Those who live by the sword . . . kill those who don ' t .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_2171"
+    },
+    {
+        "text": "Suicidal twin kills sister by mistake . . . news at 11 !",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_683"
+    },
+    {
+        "text": "If it ain ' t broke, let me have a shot at it .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_1997"
+    },
+    {
+        "text": "You know the tree by its fruit .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_171"
+    },
+    {
+        "text": "You go to heaven . . . God sneezes . . . What do you say ?",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "het_103"
+    },
+    {
+        "text": "For insomnia move to the edge of the bed and you ' ll soon drop off .",
+        "w_p": "drop off",
+        "w_a": "drop",
+        "s_p": "change from a waking to a sleeping state",
+        "s_a": "let fall to the ground",
+        "c_w": [
+            "edge",
+            "move",
+            "insomnia",
+            "soon",
+            "bed"
+        ],
+        "explanation": "This is a pun on 'drop off' which can be taken to mean a term for falling asleep, but also if you were on the edge of your bed you could physically drop off the side",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_1803"
+    },
+    {
+        "text": "The most popular operation for orthopaedic surgeons is upper - leg surgery : very hip .",
+        "w_p": "hip",
+        "w_a": "hip",
+        "s_p": "either side of the body below the waist and above the thigh",
+        "s_a": "informed about the latest trends",
+        "c_w": [
+            "orthopaedic",
+            "surgeon"
+        ],
+        "explanation": "The hip is at the upper part of the leg. When something is \"hip\" it is fashionable. The joke is a play on the word hip.",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_726"
+    },
+    {
+        "text": "Despite the high cost of living, it remains popular .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_2086"
+    },
+    {
+        "text": "She was only a Glaziers daughter but took great panes to please",
+        "w_p": "pane",
+        "w_a": "pains",
+        "s_p": "sheet glass cut in shapes for windows or doors",
+        "s_a": "an effortful attempt to attain a goal",
+        "c_w": [
+            "Glaziers daughter",
+            "great panes to please"
+        ],
+        "explanation": "It's a failed pun on 'great pains/panes to please.",
+        "label": 1,
+        "is_het": true,
+        "id": "het_743"
+    },
+    {
+        "text": "Measure twice, cut once .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_919"
+    },
+    {
+        "text": "Traveling on a flying carpet is a rugged experience .",
+        "w_p": "rugged",
+        "w_a": "rug",
+        "s_p": "very difficult; severely testing stamina or resolution",
+        "s_a": "floor covering consisting of a piece of thick heavy fabric (usually with nap or pile)",
+        "c_w": [
+            "experience",
+            "flying carpet"
+        ],
+        "explanation": "Rugged means having or requiring toughness. Rug is synonymous with carpet. Traveling on a flying carpet is an experience involving a rug, or is an experience that requires toughness. This sentence is playing on the word \"rugged\".",
+        "label": 1,
+        "is_het": true,
+        "id": "het_769"
+    },
+    {
+        "text": "When asked by a passenger how high he would get, the pilot replied, ' I don ' t do drugs . '",
+        "w_p": "high",
+        "w_a": "high",
+        "s_p": "at a great altitude",
+        "s_a": "slightly and pleasantly intoxicated from alcohol or a drug (especially marijuana)",
+        "c_w": [
+            "drugs",
+            "pilot"
+        ],
+        "explanation": "The phrase \"to get high\" means to take drugs so you experience a change in your perception of the things around you. It's meant to be an enjoyable experience. The people in the joke are a passenger and a pilot. A pilot is someone that flies an airplane. The passenger asks the pilot \"how high he would get\" which most likely meant \"at what altitude will we be at while flying?\". The pilot misunderstood the question, thinking that the passenger was referring to sense perception. The joke is playing on the different meanings of the phrase \"how high\".",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_1560"
+    },
+    {
+        "text": "He who takes credit for rain will be blamed for drought .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "het_976"
+    },
+    {
+        "text": "As usual, the chief meteorologist blustered his way through the staff meeting .",
+        "w_p": "bluster",
+        "w_a": "bluster",
+        "s_p": "blow hard; be gusty, as of wind",
+        "s_a": "act in an arrogant, overly self-assured, or conceited manner",
+        "c_w": [
+            "staff meeting",
+            "chief meteorologist",
+            "blustered"
+        ],
+        "explanation": "The word bluster can mean to talk in a loud, aggressive way with little effect. Bluster can also be used to describe a storm or rain. A blustery storm is a storm that blows or beats fiercely and noisily.",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_1622"
+    },
+    {
+        "text": "He made a slow start in the sport of weightlifting but he picked it up eventually .",
+        "w_p": "pick up",
+        "w_a": "pick up",
+        "s_p": "take and lift upward",
+        "s_a": "improve significantly; go from bad to good",
+        "c_w": [
+            "slow start",
+            "weightlifting",
+            "eventually"
+        ],
+        "explanation": "To pick something up means to adopt a pattern of behavior, or to start doing something. In weightlifting, people need to pick up weights in order to gain muscle. This joke is playing on the term \"picked up\". ",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_1786"
+    },
+    {
+        "text": "They call me Pops . I sell soft drinks .",
+        "w_p": "pop",
+        "w_a": "pop",
+        "s_p": "an informal term for a father; probably derived from baby talk",
+        "s_a": "a sweet drink containing carbonated water and flavoring",
+        "c_w": [
+            "soft-drinks",
+            "Pops"
+        ],
+        "explanation": "Another word for soft drink is pop. Pops is apparently the name of the person in the joke. This joke is playing on the different meaning of pops. ",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_1755"
+    },
+    {
+        "text": "The port was very beautiful . The sailors said it was haven on earth .",
+        "w_p": "haven",
+        "w_a": "heaven",
+        "s_p": "a sheltered port where ships can take on or discharge cargo",
+        "s_a": "any place of complete bliss and delight and peace",
+        "c_w": [
+            "port",
+            "haven on earth",
+            "sailors"
+        ],
+        "explanation": "In the context of sea, a haven is a place of refuge from the sea, such as a port. Haven on earth sounds like heaven on earth, which is a phrase used to describe a great place.",
+        "label": 1,
+        "is_het": true,
+        "id": "het_1429"
+    },
+    {
+        "text": "Who lives by hope will die of hunger .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_499"
+    },
+    {
+        "text": "Some orchestra conductors make their mark in the world of opera . They were in the right aria at the right time .",
+        "w_p": "aria",
+        "w_a": "area",
+        "s_p": "an elaborate song for solo voice",
+        "s_a": "a particular environment or walk of life",
+        "c_w": [
+            "opera",
+            "conductors"
+        ],
+        "explanation": "This is a pun on 'aria' which is a \"a long accompanied song for a solo voice, typically one in an opera or oratorio\", but it's also being used because it sounds similar to 'area', and the saying would be \"in the right area at the right time\"",
+        "label": 1,
+        "is_het": true,
+        "id": "het_1390"
+    },
+    {
+        "text": "These are my parents, said Einstein relatively",
+        "w_p": "relatively",
+        "w_a": "relativity",
+        "s_p": "in a relative manner; by comparison to something else",
+        "s_a": "(physics) the theory that space and time are relative concepts rather than absolute concepts",
+        "c_w": [
+            "my parents",
+            "Einstein"
+        ],
+        "explanation": "This joke is a pun on relativity, a concept formulated by Einstein, in regards to speaking about his parents/relatives. ",
+        "label": 1,
+        "is_het": true,
+        "id": "het_1769"
+    },
+    {
+        "text": "Never make fun of a Scotsman ' s traditional garb . You could get kilt that way .",
+        "w_p": "kilt",
+        "w_a": "kill",
+        "s_p": "a knee-length pleated tartan skirt worn by men as part of the traditional dress in the Highlands of northern Scotland",
+        "s_a": "cause to die; put to death, usually intentionally or knowingly",
+        "c_w": [
+            "get kilt",
+            "Scotsman's",
+            "make fun",
+            "garb"
+        ],
+        "explanation": "A kilt is a type of knee-length dress skirt found in Scottish culture. Kilt sounds like \"killed\". The joke is saying that you shouldn't make fun of a Scotman's traditional garb because you could get killed, but kilt was used in its place. ",
+        "label": 1,
+        "is_het": true,
+        "id": "het_1718"
+    },
+    {
+        "text": "Don ' t make clothes for a not yet born baby .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_786"
+    },
+    {
+        "text": "She dumped him because of all their lousy dates . After all, whining and dining does get tiresome after a while .",
+        "w_p": "whine",
+        "w_a": "wine",
+        "s_p": "complain whiningly",
+        "s_a": "treat to wine",
+        "c_w": [
+            "dumped him",
+            "and dining",
+            "lousy dates"
+        ],
+        "explanation": "This is a pun on \"whining\". Dating is sometimes referred to as \"wining and dining\". They changed the spelling to \"whining\" because the guy did something on their dates that got tiresome to her, making the dates lousy and causing her to dump him. That something could be whining. No one wants to be around someone who whines all the time. ",
+        "label": 1,
+        "is_het": true,
+        "id": "het_1180"
+    },
+    {
+        "text": "Truckers like houses with long haulways .",
+        "w_p": "haulways",
+        "w_a": "hallway",
+        "s_p": "the act of drawing or hauling something; transport in a vehicle",
+        "s_a": "an interior passage or corridor onto which rooms open",
+        "c_w": [
+            "Truckers",
+            "houses",
+            "long"
+        ],
+        "explanation": "To haul is to pull something with great force or effort, this is what trucks do. Haulways is a homophone of hallways. A haulway is a strip of road that is used for hauling objects. A hallway a long passage with doors into rooms on both sides of it. \"Truckers like long haulways\", which can sound like \"truckers like long hallways\". The joke is playing on the word haulways. ",
+        "label": 1,
+        "is_het": true,
+        "id": "het_194"
+    },
+    {
+        "text": "As a young boy, Brutus' mother often cautioned him not to run with Caesars .",
+        "w_p": "Caesars",
+        "w_a": "scissors",
+        "s_p": "conqueror of Gaul and master of the Roman Empire (100-44 BC)",
+        "s_a": "an edge tool having two crossed pivoting blades",
+        "c_w": [
+            "cautioned",
+            "run with",
+            "Brutus' mother",
+            "not to"
+        ],
+        "explanation": "The joke is a pun.  'Caesars' sounds like 'scissors' and a warning a parent might give to their child is 'don't run with scissors'. Brutus was a Roman general, one of the conspirators in Shakespeare's Julius Caesar, which was about the real life Roman emperor.",
+        "label": 1,
+        "is_het": true,
+        "id": "het_1614"
+    },
+    {
+        "text": "Never say die .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "het_747"
+    },
+    {
+        "text": "During branding cowboys have sore calves .",
+        "w_p": "calf",
+        "w_a": "calf",
+        "s_p": "young of domestic cattle",
+        "s_a": "the muscular back part of the shank",
+        "c_w": [
+            "cowboys",
+            "sore calves",
+            "branding"
+        ],
+        "explanation": "Cowboys are animal herders that tend to cattle. Cows are cattle. A calf is a baby cow. The plural of calf is calves. Calves can also refer to the muscle at the back of a person's leg below the knee. Branding is the act of marking another by burning their flesh with heat from an iron. This leaves the branded area sore. The joke is playing on the word calves and its different meanings. Calves, or the muscle beneath the knee, can get sore from exercise. Calves, the baby cows, are sore from getting branded. ",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_1126"
+    },
+    {
+        "text": "Curiosity didn ' t kill the cat . I got ' im with the mower !",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_589"
+    },
+    {
+        "text": "Only the good die young .",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_2090"
+    },
+    {
+        "text": "Need soul repair ? Walk right in .",
+        "w_p": "soul",
+        "w_a": "sole",
+        "s_p": "the immaterial part of a person; the actuating cause of an individual life",
+        "s_a": "the underside of footwear or a golf club",
+        "c_w": [
+            "soul repair",
+            "Walk right in"
+        ],
+        "explanation": "This is a joke that only works in writing. It surprises the reader by using the spiritual spelling of 'soul', before implying that it meant the 'sole' of a shoe, hence 'walk right in'. It could, however, still refer to a place of worship.",
+        "label": 1,
+        "is_het": true,
+        "id": "het_1492"
+    },
+    {
+        "text": "' I got lost in the streets of Paris, ' he said ruefully .",
+        "w_p": "ruefully",
+        "w_a": "rue",
+        "s_p": "in a rueful manner",
+        "s_a": "(French) a street or road in France",
+        "c_w": [
+            "streets",
+            "paris"
+        ],
+        "explanation": "rue means street or road in french but you have to have know that to find it funny ",
+        "label": 1,
+        "is_het": true,
+        "id": "het_1089"
+    },
+    {
+        "text": "The owner of the hair salon had to make cuts on his staff .",
+        "w_p": "cut",
+        "w_a": "cut",
+        "s_p": "the act of reducing the amount or number",
+        "s_a": "the act of shortening something by chopping off the ends",
+        "c_w": [
+            "hair salon",
+            "staff",
+            "make cuts",
+            "owner"
+        ],
+        "explanation": "This is a play on words. The phrase words \"making cuts\" refers to laying off workers due to budget concerns but \"cuts\" also refers to the literal cutting of hair that happens at a barbershop.",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_389"
+    },
+    {
+        "text": "\" Very funny, Scotty . Now beam up my clothes . \"",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_1145"
+    },
+    {
+        "text": "Harry and Clem the carpenters, argued mightily on how best to complete the dinette set they were working on . They finally agreed to table the discussion .",
+        "w_p": "table",
+        "w_a": "table",
+        "s_p": "hold back to a later time",
+        "s_a": "a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs",
+        "c_w": [
+            "argued",
+            "dinette set",
+            "carpenter's",
+            "table the discussion"
+        ],
+        "explanation": " A carpenter is a worker who builds or repairs wooden structures. Dinette sets (which have a table as a part of them) are often made of wood. The meaning of the expression \"We can table this\" means to postpone a discussion.",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_1144"
+    },
+    {
+        "text": "Waiters are good at multiplication because they know their tables .",
+        "w_p": "table",
+        "w_a": "table",
+        "s_p": "a set of data arranged in rows and columns",
+        "s_a": "a piece of furniture with tableware for a meal laid out on it",
+        "c_w": [
+            "multiplication",
+            "tables",
+            "waiters"
+        ],
+        "explanation": "A multiplication table shows the products of two factors. Waiters are servers that serve food and drink to their customers. They know their tables, as in, they know what kind of items the customers at their tables want but it could also mean they know their multiplication tables. ",
+        "label": 1,
+        "is_het": false,
+        "id": "hom_1729"
+    },
+    {
+        "text": "The new father of quintuplets could hardly believe his own census .",
+        "w_p": "census",
+        "w_a": "sense",
+        "s_p": "a periodic count of the population",
+        "s_a": "the faculty through which the external world is apprehended",
+        "c_w": [
+            "father",
+            "quintuplets",
+            "own census"
+        ],
+        "explanation": "This is a pun on the word \"census\". A \"census\" is a collection of demographic data and includes info such as how many members are in a family. It sounds like \"senses\". The father cannot believe how big his family has become so he cannot believe his own senses and can't believe the census data he will now have to provide.",
+        "label": 1,
+        "is_het": true,
+        "id": "het_364"
+    },
+    {
+        "text": "He crashed through several windows, but felt no pane .",
+        "w_p": "pane",
+        "w_a": "pain",
+        "s_p": "sheet glass cut in shapes for windows or doors",
+        "s_a": "a symptom of some physical hurt or disorder",
+        "c_w": [
+            "crashed",
+            "windows"
+        ],
+        "explanation": "Pain is a homophone of pane. A pane is a single sheet of glass, often used to make windows. Pain is a type of suffering caused by injury. Though he crashed through the windows, he felt \"no pane' which sounds like \"no pain\". The joke is on the word \"pane\" which describes window glass, but sounds like \"pain\". ",
+        "label": 1,
+        "is_het": true,
+        "id": "het_723"
+    },
+    {
+        "text": "Trespassers will be shot, survivors will be shot again !",
+        "w_p": null,
+        "w_a": null,
+        "s_p": null,
+        "s_a": null,
+        "c_w": null,
+        "explanation": null,
+        "label": 0,
+        "is_het": null,
+        "id": "hom_1299"
+    }
+]

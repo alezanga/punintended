@@ -1,0 +1,2670 @@
+[
+  {
+    "text": "I enjoy listening to the ocean - said Tom sincerely.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_66"
+  },
+  {
+    "text": "Would you like some soda in your whiskey? asked Tom caustically.",
+    "w_p": "caustically",
+    "w_a": "caustic",
+    "s_p": "in a caustic vitriolic manner",
+    "s_a": "of a substance, especially a strong acid; capable of destroying or eating away by chemical action",
+    "c_w": [
+      "your whiskey?",
+      "some soda"
+    ],
+    "explanation": "Soda can be considered a caustic, or destructive, substance in some cases.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_1385"
+  },
+  {
+    "text": "\"I've stuck a pin through my nose\" said Tom punctually.",
+    "w_p": "punctually",
+    "w_a": "puncture",
+    "s_p": "at the expected or proper time",
+    "s_a": "a small hole made by a sharp object; the act of puncturing or perforating",
+    "c_w": [
+      "pin",
+      "through",
+      "said",
+      "nose",
+      "stuck"
+    ],
+    "explanation": "This is a pun on the word 'punctually' since it sounds similar to 'puncture' which is a small hole in something such as the skin, caused by a sharp object. Much like how you'd puncture you're nose with a pin",
+    "label": 1,
+    "is_het": true,
+    "id": "het_22"
+  },
+  {
+    "text": "\"The door's ajar\" said Tom openly.",
+    "w_p": "openly",
+    "w_a": "open",
+    "s_p": "in an open way",
+    "s_a": "affording unobstructed entrance and exit; not shut or closed",
+    "c_w": [
+      "ajar",
+      "door"
+    ],
+    "explanation": "Ajar means slightly open. Tom said the door was ajar, openly. Openly means to be direct and honest. We see the word \"open\" in openly, and \"open\" describes the door. This joke is playing on the word \"openly\".",
+    "label": 1,
+    "is_het": true,
+    "id": "het_1491"
+  },
+  {
+    "text": "\"I just came in through the door\" said Tom, entranced.",
+    "w_p": "entranced",
+    "w_a": "entrance",
+    "s_p": "filled with wonder and delight",
+    "s_a": "the act of entering; something that provides access (to get in or get out); a movement into or inward",
+    "c_w": [
+      "door"
+    ],
+    "explanation": "\"Entrance\" is seen in the word \"entranced\". An entrance is a door that is used to go into a building. Entranced means to be carried away with wonder or delight. This joke is playing on the word \"entranced\" and the word \"entrance\" which we see in it. ",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_868"
+  },
+  {
+    "text": "I'd like to learn a new card game, Tom said wistfully.",
+    "w_p": "wistfully",
+    "w_a": "whist",
+    "s_p": "in a wistful manner",
+    "s_a": "a card game for four players who form two partnerships; a pack of 52 cards is dealt and each side scores one point for each trick it takes in excess of six",
+    "c_w": [
+      "said",
+      "card game"
+    ],
+    "explanation": "The joke is a pun. To say something 'wistfully' means to say it with a feeling of vague or regretful longing.  The word sound of the word 'whist' is in the first part of 'wistfully' and it is the name of a type of card game.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_1627"
+  },
+  {
+    "text": "What are you taking pictures of? Tom snapped.",
+    "w_p": "snap",
+    "w_a": "snap",
+    "s_p": "utter in an angry, sharp, or abrupt tone",
+    "s_a": "record on photographic film",
+    "c_w": [
+      "pictures",
+      "snapped"
+    ],
+    "explanation": "\"Snapped\" can mean angrily. Snapped can also be the past tense of the verb \"snap\" which is the verb used to explain what people do when the take pictures. They snap pictures. Tom \"snapped\" at someone who is taking pictures. This joke is playing on the different meanings of the word snapped.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1852"
+  },
+  {
+    "text": "I feel empty inside, Tom hollered.",
+    "w_p": "holler",
+    "w_a": "hollow",
+    "s_p": "complain; shout out",
+    "s_a": "lacking in substance or character; devoid of significance or force",
+    "c_w": [
+      "hollered",
+      "empty inside"
+    ],
+    "explanation": "This joke doesn't make sense because 'hollered' does not sound enough like 'hollow', and it creates a bizarre mental image.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_538"
+  },
+  {
+    "text": "I'm persistent - said Tom without giving up.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_31"
+  },
+  {
+    "text": "\"I work at a bank\" said Tom tellingly.",
+    "w_p": "tellingly",
+    "w_a": "teller",
+    "s_p": "in a telling manner",
+    "s_a": "an employee of a bank who receives and pays out money",
+    "c_w": [
+      "said",
+      "bank",
+      "work"
+    ],
+    "explanation": "The joke is a play on words.  A person who works at the desk at a bank is called a bank 'teller'.  To say something 'tellingly' is to say it with a striking or revealing effect; significantly.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_893"
+  },
+  {
+    "text": "\"I bought myself fifty hamburgers and I've only ten left\" said Tom with fortitude.",
+    "w_p": "fortitude",
+    "w_a": "forty",
+    "s_p": "strength of mind that enables one to endure adversity with courage",
+    "s_a": "the cardinal number that is the product of ten and four; being ten more than thirty",
+    "c_w": [
+      "fifty",
+      "ten left"
+    ],
+    "explanation": "forty is in the word fortitude which also how  many was gone ",
+    "label": 1,
+    "is_het": true,
+    "id": "het_643"
+  },
+  {
+    "text": "\"Another plate of seafood for me!\" Tom clamored.",
+    "w_p": "clamor",
+    "w_a": "clam",
+    "s_p": "make loud demands",
+    "s_a": "burrowing marine mollusk living on sand or mud; the shell closes with viselike firmness; flesh of either hard-shell or soft-shell clams",
+    "c_w": [
+      "seafood",
+      "plate",
+      "clamored"
+    ],
+    "explanation": "This joke is making a pun with the word clamored, contain clam, in regards to an order of seafood. ",
+    "label": 1,
+    "is_het": true,
+    "id": "het_1157"
+  },
+  {
+    "text": "\"I've run out of wool\" said Tom, knitting his brow.",
+    "w_p": "knit",
+    "w_a": "knit",
+    "s_p": "make (textiles) by knitting",
+    "s_a": "to gather something into small wrinkles or folds",
+    "c_w": [
+      "brow",
+      "wool",
+      "said",
+      "knitting"
+    ],
+    "explanation": "This joke is a pun.  Wool is generally used for knitting.  However, to knit one's brow is to move the eyebrows together in a way that shows that one is thinking about something or is worried or angry.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_424"
+  },
+  {
+    "text": "\"If I let go of the ceiling it will collapse\" Tom upheld.",
+    "w_p": "uphold",
+    "w_a": "hold up",
+    "s_p": "support against an opponent",
+    "s_a": "be the physical support of; carry the weight of",
+    "c_w": [
+      "let go",
+      "collapse",
+      "ceiling",
+      "upheld"
+    ],
+    "explanation": "Upheld means to confirm, but it can also mean to physically support something. Tom is confirming that the ceiling is going to collapse, but it is supporting it. The joke is centered on the word \"upheld\" and how it relates to giving physical support, and how it means confirmation of something.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_179"
+  },
+  {
+    "text": "I'm making a join list - said Tom precisely.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_61"
+  },
+  {
+    "text": "\"Have you seen my collection of ancient Chinese artifacts?\" asked Tom charmingly.",
+    "w_p": "charmingly",
+    "w_a": "ming",
+    "s_p": "in a charming manner",
+    "s_a": "the imperial dynasty of China from 1368 to 1644",
+    "c_w": [
+      "ancient Chinese artifacts"
+    ],
+    "explanation": "This is a pun on the word \"charmingly\". \"Charmingly\" has the word \"charm\" in it. A charm can be an ancient Chinese artifact and the joke is about ancient Chinese artifacts. ",
+    "label": 1,
+    "is_het": true,
+    "id": "het_624"
+  },
+  {
+    "text": "I was trying to understand why the ball was changing size - said Tom - then I realized why.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_7"
+  },
+  {
+    "text": "The cookies are outstanding - said Tom joyfully.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_91"
+  },
+  {
+    "text": "\"Do you buy and sell stolen goods?\" asked Tom offensively.",
+    "w_p": "offensively",
+    "w_a": "fence",
+    "s_p": "in an obnoxious manner; in an unpleasantly offensive manner",
+    "s_a": "a dealer in stolen property; receive stolen goods",
+    "c_w": [
+      "stolen goods",
+      "sell",
+      "asked",
+      "buy"
+    ],
+    "explanation": "The joke is a pun.  Buying and selling stolen goods is illegal and police and courts would mark any instance of that as an 'offense' against the law.  To do or say something 'offensively' is to do it in an actively aggressive or attacking manner.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_1327"
+  },
+  {
+    "text": "I'm on a seafood diet - said Tom - I see food and I eat it.",
+    "w_p": "see food",
+    "w_a": "seafood",
+    "s_p": "to visually notice or perceive edible food",
+    "s_a": "animals from the sea that can be eaten, especially fish or sea creatures with shells",
+    "c_w": [
+      "eat it",
+      "seafood",
+      "diet"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "pos_9"
+  },
+  {
+    "text": "This ship is slow! Speed's knot what I expected - said Tom, feeling desperate",
+    "w_p": "knot",
+    "w_a": "not",
+    "s_p": "a measure of the speed of ships, aircraft, or movements of water and air",
+    "s_a": "adverb used to form a negative phrase after verbs",
+    "c_w": [
+      "slow",
+      "speed",
+      "what I expected",
+      "desperate"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "pos_2"
+  },
+  {
+    "text": "Look at those tall flowers, said Tom gladly.",
+    "w_p": "gladly",
+    "w_a": "gladiolus",
+    "s_p": "in a willing manner",
+    "s_a": "any of numerous plants of the genus Gladiolus native chiefly to tropical and South Africa having sword-shaped leaves and one-sided spikes of brightly colored funnel-shaped flowers; widely cultivated",
+    "c_w": [
+      "flowers"
+    ],
+    "explanation": "I think gladly has to do something with flowers ",
+    "label": 1,
+    "is_het": true,
+    "id": "het_473"
+  },
+  {
+    "text": "One of the tires just blew out, Tom said sparingly.",
+    "w_p": "sparingly",
+    "w_a": "spare",
+    "s_p": "to a meager degree or in a meager manner",
+    "s_a": "an extra car wheel and tire for a four-wheel vehicle",
+    "c_w": [
+      "blew out",
+      "tires"
+    ],
+    "explanation": "To say something sparingly means to say something in an infrequent manner. When a tire blows out, people typically have what's called a spare tire in the trunk of their car to replace the blown out tire. We hear the word \"spare\" in \"sparingly\". This joke is playing on the word \"sparingly\" because we can hear \"spare\" in it, relating to a spare tire. ",
+    "label": 1,
+    "is_het": true,
+    "id": "het_431"
+  },
+  {
+    "text": "I'm not wealthy - said Tom - but that comparison is meaningless.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_49"
+  },
+  {
+    "text": "I'll cover the shipping cost - said Tom willingly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_37"
+  },
+  {
+    "text": "\"Give me a haircut\" Tom said barbarously.",
+    "w_p": "barbarously",
+    "w_a": "barber",
+    "s_p": "in a barbarous manner",
+    "s_a": "a hairdresser who cuts hair and shaves beards as a trade",
+    "c_w": [
+      "haircut",
+      "said"
+    ],
+    "explanation": "The joke is a play on words. To do or say something 'barbarously' is to be loud or rowdy.  'Barbarously' sounds like 'barber', and barbers cut hair.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_1105"
+  },
+  {
+    "text": "Let's start the meeting - said Tom, going through his notes.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_74"
+  },
+  {
+    "text": "\"I need a pencil sharpener\" said Tom bluntly.",
+    "w_p": "bluntly",
+    "w_a": "blunt",
+    "s_p": "in a blunt direct manner",
+    "s_a": "having a broad or rounded end",
+    "c_w": [
+      "pencil",
+      "sharpener"
+    ],
+    "explanation": "The joke is a pun.  A pencil that needs to be sharpened likely has no sharp point on it, meaning it has a blunt tip.  To say something bluntly is to say it in an uncompromisingly forthright way.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_1766"
+  },
+  {
+    "text": "I hope this barber is exceptional - said Tom quietly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_28"
+  },
+  {
+    "text": "\"This food tastes of plutonium\" said Tom glowingly.",
+    "w_p": "glowingly",
+    "w_a": "glow",
+    "s_p": "in an enthusiastically glowing manner",
+    "s_a": "light from non-thermal sources; emit a steady even light without flames",
+    "c_w": [
+      "food",
+      "plutonium"
+    ],
+    "explanation": "This is a play on words. The word \"glowingly\" means spoken with enthusiastic praise but \"glowingly\" also refers to how plutonium is a radioactive element that glows or shines with a very bright light.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_73"
+  },
+  {
+    "text": "I'm a huge fan of wind energy - said Tom feeling breezy.",
+    "w_p": "breezy",
+    "w_a": "breezy",
+    "s_p": "fresh and animated; lively",
+    "s_a": "exposed to breezes; windy",
+    "c_w": [
+      "said",
+      "feeling",
+      "fan",
+      "wind"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "pos_0"
+  },
+  {
+    "text": "\"This is the most common language used on micros\" said Tom basically.",
+    "w_p": "basically",
+    "w_a": "basic",
+    "s_p": "in essence; at bottom or by one's (or its) very nature",
+    "s_a": "a popular programming language that is relatively easy to learn; an acronym for beginner's all-purpose symbolic instruction code; no longer in general use",
+    "c_w": [
+      "language",
+      "said",
+      "most common",
+      "on micros"
+    ],
+    "explanation": "The joke is a pun. To say something 'basically' is to say it in a simple way.  'BASIC' however, is the name of a family of general-purpose, high-level programming languages designed for ease of use. ",
+    "label": 1,
+    "is_het": true,
+    "id": "het_978"
+  },
+  {
+    "text": "\"Would anyone like some Parmesan?\" asked Tom gratingly.",
+    "w_p": "gratingly",
+    "w_a": "grate",
+    "s_p": "in a harsh and grating manner",
+    "s_a": "reduce to small shreds or pulverize by rubbing against a rough or sharp perforated surface",
+    "c_w": [
+      "parmesan"
+    ],
+    "explanation": "This is play on the word grating, or gratingly. Parmesan is a cheese. Cheese needs to be put through a grater if you want cheese in sprinkles. Gratingly here means in an irritating fashion.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_1704"
+  },
+  {
+    "text": "This cufflink is extremely valuable - said Tom genuinely.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_14"
+  },
+  {
+    "text": "I'm reading about electricity - said Tom eagerly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_36"
+  },
+  {
+    "text": "My dog is making a mistake - said Tom distantly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_70"
+  },
+  {
+    "text": "\"Now I can do some painting\" said Tom easily.",
+    "w_p": "easily",
+    "w_a": "easel",
+    "s_p": "with ease (`easy' is sometimes used informally for `easily')",
+    "s_a": "an upright tripod for displaying something (usually an artist's canvas)",
+    "c_w": [
+      "painting",
+      "said"
+    ],
+    "explanation": "The joke is a pun.  'Easily' means 'without difficulty', but the word sounds like 'easel' which is a stand for holding a canvas or paper for making art while it is being worked on.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_108"
+  },
+  {
+    "text": "This orange is full of flavor - said Tom enthusiastically.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_23"
+  },
+  {
+    "text": "\"This is mutiny!\" said Tom bountifully.",
+    "w_p": "bountifully",
+    "w_a": "bounty",
+    "s_p": "in a bountiful manner",
+    "s_a": "a ship of the British navy; in 1789 part of the crew mutinied against their commander William Bligh and set him afloat in an open boat",
+    "c_w": [
+      "mutiny",
+      "said"
+    ],
+    "explanation": "Poor Tom needs to be incorporated into better jokes. The word 'bountifully' does not refer to the way someone says something, which is why the joke fails.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_1433"
+  },
+  {
+    "text": "I've improved the tubes - said Tom honestly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_93"
+  },
+  {
+    "text": "It's where we store the hay, Tom said loftily.",
+    "w_p": "loftily",
+    "w_a": "loft",
+    "s_p": "in a lofty manner",
+    "s_a": "floor consisting of open space at the top of a house just below roof; often used for storage; floor consisting of a large unpartitioned space over a factory or warehouse or other commercial space",
+    "c_w": [
+      "hay"
+    ],
+    "explanation": "The joke is a pun on the word 'loftily'.  A loft is typically where hay is stored in a barn.  Speaking loftily is to speak in an elevated tone or manner.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_381"
+  },
+  {
+    "text": "\"It's the quotient of two integers\" said Tom rationally.",
+    "w_p": "rationally",
+    "w_a": "rational",
+    "s_p": "in a rational manner",
+    "s_a": "an integer or a fraction",
+    "c_w": [
+      "said",
+      "quotient of two integers"
+    ],
+    "explanation": "The joke is a pun. A 'rational' number in mathematics is a number that can be a quotient of two integers with no repeating decimal.  Being 'rational' or speaking 'rationally' means to do so calmly and by thinking things through.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_657"
+  },
+  {
+    "text": "I enjoy being on the basketball court - said Tom with enthusiasm.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_94"
+  },
+  {
+    "text": "I'm skilled at creating metaphors - said Tom boasting his knowledge.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_40"
+  },
+  {
+    "text": "I cannot stand this rain - said Tom, annoyed.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_59"
+  },
+  {
+    "text": "My work with wood is on the level - said Tom flatly.",
+    "w_p": "on the level",
+    "w_a": "on the level",
+    "s_p": "being honest or speaking truthfully",
+    "s_a": "to be flat",
+    "c_w": [
+      "work",
+      "wood",
+      "flatly"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "pos_10"
+  },
+  {
+    "text": "This hat is really stylish - said Tom with a disheveled look.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_13"
+  },
+  {
+    "text": "I'm a personal trainer - said Tom seriously.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_73"
+  },
+  {
+    "text": "I dropped the toothpaste - said Tom with disappointment.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_2"
+  },
+  {
+    "text": "I've been to the dentist many times - said Tom with a satisfied smile.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_4"
+  },
+  {
+    "text": "This suspenseful situation is engaging - said Tom enthusiastically.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_8"
+  },
+  {
+    "text": "\"I can tell which way the wind blows\" said Tom vainly.",
+    "w_p": "vainly",
+    "w_a": "vane",
+    "s_p": "to no avail",
+    "s_a": "mechanical device attached to an elevated structure; rotates freely to show the direction of the wind",
+    "c_w": [
+      "said",
+      "which way",
+      "can tell",
+      "wind blows"
+    ],
+    "explanation": "The joke is a pun. To do something 'vainly' is to do it with an excessively high opinion of one's appearance, abilities, or worth.  A 'weather vane' is a device typically on roofs of buildings that turns to show the direction of the wind.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_1666"
+  },
+  {
+    "text": "I'm considering this - said Tom broad-mindedly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_87"
+  },
+  {
+    "text": "\"This movie will be very popular\", Tom projected.",
+    "w_p": "project",
+    "w_a": "project",
+    "s_p": "communicate vividly",
+    "s_a": "project on a screen",
+    "c_w": [
+      "popular",
+      "movie",
+      "projected"
+    ],
+    "explanation": "This is a play on words. The word \"projected\" refers to Tom's manner of speaking but \"projected\" also refers to how movies are shown in theaters using projectors. ",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1036"
+  },
+  {
+    "text": "I love singing with others - said Tom.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_57"
+  },
+  {
+    "text": "There's no point in arguing further - said Tom calmly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_11"
+  },
+  {
+    "text": "The caf\u00e9 moved upstairs because the owner wanted to raise the bar for quality - said Tom quickly",
+    "w_p": "raise the bar",
+    "w_a": "raise the bar",
+    "s_p": "to raise standards or expectations, especially by creating something to a higher standard",
+    "s_a": "to move a bar to a higher position; elevate, lift",
+    "c_w": [
+      "quality",
+      "moved",
+      "upstairs",
+      "caf\u00e9"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "pos_15"
+  },
+  {
+    "text": "I'm managing things better - said Tom, feeling in control.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_29"
+  },
+  {
+    "text": "That's no beagle; that's a mongrel, Tom muttered.",
+    "w_p": "muttered",
+    "w_a": "mutt",
+    "s_p": "talk indistinctly; usually in a low voice; make complaining remarks or noises under one's breath",
+    "s_a": "an inferior dog or one of mixed breed",
+    "c_w": [
+      "beagle",
+      "mongrel"
+    ],
+    "explanation": "A beagle is a type of dog. A mongrel is a dog that results from the crossing of different breeds. To mutter is to say something in a low or barely audible voice. A mutt is a dog, another word for mongrel. We see \"mutt\" in \"muttered\". The joke is centered around the word \"muttered\" because we can see the word \"mutt\" in it and the joke is about dogs.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_1328"
+  },
+  {
+    "text": "\"This is all from memory\" Tom wrote.",
+    "w_p": "write",
+    "w_a": "rote",
+    "s_p": "communicate or express by writing",
+    "s_a": "memorization by repetition",
+    "c_w": [
+      "memory",
+      "wrote"
+    ],
+    "explanation": "\"Wrote\" and \"rote\" are homophones. Rote memory is a learning technique where one repeats certain facts until it is instilled in their memory. This joke is playing on the word \"wrote\" because it sounds like \"rote\" which relates to a learning technique.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_1640"
+  },
+  {
+    "text": "I'm going to the circus - said Tom with excitement.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_47"
+  },
+  {
+    "text": "I'm just feeling sad - said Tom miserably.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_92"
+  },
+  {
+    "text": "\"I'm halfway up a mountain\" Tom alleged.",
+    "w_p": "allege",
+    "w_a": "ledge",
+    "s_p": "report or maintain",
+    "s_a": "a projecting ridge on a mountain or submerged under water",
+    "c_w": [
+      "alleged",
+      "mountain",
+      "halfway up"
+    ],
+    "explanation": "\"Alleged\" means to have said, without proof, that something has taken place. \"Alleged\" sounds close to \"a ledge\". A ledge is a horizontal surface project from a wall or cliff. Ledges are often seen on rock walls when rock climbing. Tom alleged that he is halfway up a mountain. The joke is centered around the word \"alleged\" and how it sounds like \"a ledge\" which is often seen when climbing a mountain.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_1"
+  },
+  {
+    "text": "I fought with Geronimo, said Tom bravely.",
+    "w_p": "bravely",
+    "w_a": "brave",
+    "s_p": "in a courageous manner",
+    "s_a": "a North American Indian warrior",
+    "c_w": [
+      "Geronimo",
+      "fought"
+    ],
+    "explanation": "Geronimo is a word shouted during an experience of exhilaration, typically during warfare. Geronimo is also the name of a person. The joke centers around the word geronimo and its different meanings.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_305"
+  },
+  {
+    "text": "I'm going to learn juggling - said Tom energetically.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_95"
+  },
+  {
+    "text": "Superglue! Tom rejoined.",
+    "w_p": "rejoin",
+    "w_a": "rejoin",
+    "s_p": "join again",
+    "s_a": "answer back",
+    "c_w": [
+      "rejoined",
+      "Superglue"
+    ],
+    "explanation": "The joke is a pun. Glue is used to join things together by adhering them.  To join something back together would be to 'rejoin'. Another meaning of 'rejoin' is to say something in answer to a remark, typically rudely or in a discouraging manner.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_83"
+  },
+  {
+    "text": "It's not frozen - said Tom calmly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_20"
+  },
+  {
+    "text": "I'm quite good at poetry - said Tom humbly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_34"
+  },
+  {
+    "text": "Sure I can climb cliffs! Tom bluffed.",
+    "w_p": "bluff",
+    "w_a": "bluff",
+    "s_p": "frighten someone by pretending to be stronger than one really is",
+    "s_a": "a high steep bank (usually formed by river erosion)",
+    "c_w": [
+      "cliffs",
+      "bluffed"
+    ],
+    "explanation": "Bluff is another word for cliff, but it can also mean lie. Tom bluffed about climbing cliffs, so Tom is lying when he says he can climb cliffs. Bluffed is used here to mean lying, but also references cliffs.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_2079"
+  },
+  {
+    "text": "Let's all play an A, a C sharp, and an E, cried Tom's band with one accord.",
+    "w_p": "accord",
+    "w_a": "chord",
+    "s_p": "concurrence of opinion",
+    "s_a": "a combination of three or more notes that blend harmoniously when sounded together",
+    "c_w": [
+      "band",
+      "A, a C sharp, and an E",
+      "one accord",
+      "play"
+    ],
+    "explanation": "The joke is a play on words.  The band is talking about playing three notes at the same time, which makes a sound called a 'chord'.  Saying 'a chord' sounds like 'accord'. To say something with 'one accord' is to do so harmoniously.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_33"
+  },
+  {
+    "text": "I like historical novels - said Tom evenly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_65"
+  },
+  {
+    "text": "A son should know when to stop - said Tom confidently.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_97"
+  },
+  {
+    "text": "Have another soft drink, Tom coaxed.",
+    "w_p": "coax",
+    "w_a": "coke",
+    "s_p": "influence or urge by gentle urging, caressing, or flattering",
+    "s_a": "Coca Cola is a trademarked cola",
+    "c_w": [
+      "soft drink",
+      "coaxed"
+    ],
+    "explanation": "This is a pun on how \"coaxed\" sounds like \"Coke\" which is a brand of soft drink. ",
+    "label": 1,
+    "is_het": true,
+    "id": "het_1228"
+  },
+  {
+    "text": "\"I invested in a hi - tech startup\" Tom ventured.",
+    "w_p": "venture",
+    "w_a": "venture",
+    "s_p": "a commercial undertaking that risks a loss but promises a profit",
+    "s_a": "put forward, of a guess, in spite of possible refutation",
+    "c_w": [
+      "ventured",
+      "hi - tech",
+      "startup",
+      "invested"
+    ],
+    "explanation": "The joke is a pun. To 'venture' is to take a risky or daring journey or undertaking.  A start-up is a 'business venture' where new business is formed with a plan and expectation that financial gain will follow.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_2217"
+  },
+  {
+    "text": "'I don't like insects in my pasta' - said Tom - 'It bugs me'.",
+    "w_p": "bugs",
+    "w_a": "bugs",
+    "s_p": "to annoy or worry someone",
+    "s_a": "very small insects",
+    "c_w": [
+      "it",
+      "me",
+      "don't like",
+      "insects"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "pos_12"
+  },
+  {
+    "text": "I'm going to the weigh station - said Tom seriously.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_55"
+  },
+  {
+    "text": "I've become a cheerleader - said Tom enthusiastically.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_60"
+  },
+  {
+    "text": "I've made something new - said Tom creatively.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_32"
+  },
+  {
+    "text": "I'm humorously saying I eat whatever I see - said Tom.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_33"
+  },
+  {
+    "text": "I'm capturing the landscape - said Tom sincerely.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_53"
+  },
+  {
+    "text": "I'm going to be direct - said Tom with enthusiasm.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_44"
+  },
+  {
+    "text": "This room is not what I expected - said Tom entangled.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_6"
+  },
+  {
+    "text": "This apple pie is the highlight of my meal - said Tom sincerely.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_78"
+  },
+  {
+    "text": "\"I won't tell you anything about my salivary glands\" said Tom secretively.",
+    "w_p": "secretively",
+    "w_a": "secrete",
+    "s_p": "in a secretive manner; with a preference for secrecy",
+    "s_a": "generate and separate from cells or bodily fluids",
+    "c_w": [
+      "salivary glands",
+      "won' t tell"
+    ],
+    "explanation": "Salivary glands secrete saliva. Secrete means to produce. Secretively means to go about quietly and hidden from others. Secretively is a play on the word secrete and secret.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_506"
+  },
+  {
+    "text": "My carpentry is honest - said Tom straightforwardly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_39"
+  },
+  {
+    "text": "I've come up with a new pasta - said Tom creatively.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_51"
+  },
+  {
+    "text": "I'll compose the song later - said Tom casually.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_82"
+  },
+  {
+    "text": "Naughtily, Tom said nothing.",
+    "w_p": "naughtily",
+    "w_a": "naught",
+    "s_p": "in a disobedient or naughty way",
+    "s_a": "a quantity of no importance",
+    "c_w": [
+      "said",
+      "nothing"
+    ],
+    "explanation": "Naughtily is an adverb that means \"in a disobedient way\". The word \"naught\" means nothing. The word \"naught\" can be found in \"naughtily\". Tom disobediently said nothing. ",
+    "label": 1,
+    "is_het": true,
+    "id": "het_1772"
+  },
+  {
+    "text": "I'm staying up all night - said Tom tirelessly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_83"
+  },
+  {
+    "text": "\"I think I'll use a different font\" said Tom boldly.",
+    "w_p": "boldly",
+    "w_a": "bold",
+    "s_p": "with boldness, in a bold manner",
+    "s_a": "a typeface with thick heavy lines",
+    "c_w": [
+      "font"
+    ],
+    "explanation": "Bold is a type of font. Bold also means courage. Boldly means with courage. This is a play on the word bold.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_1378"
+  },
+  {
+    "text": "I wish I'd said that, Oscar, said Tom wildly.",
+    "w_p": "wildly",
+    "w_a": "wilde",
+    "s_p": "in an uncontrolled or unrestrained manner",
+    "s_a": "Irish writer and wit (1854-1900)",
+    "c_w": [
+      "Oscar"
+    ],
+    "explanation": "This is a play on words. The word \"wildly\" means spoken in a way that lacks restraint but \"Wilde\" is also the name of famous literary figure Oscar Wilde.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_923"
+  },
+  {
+    "text": "I've taken the photo - said Tom quickly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_72"
+  },
+  {
+    "text": "I'm going to acting school - said Tom joyfully.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_99"
+  },
+  {
+    "text": "I'm enjoying a book on anti-gravity - said Tom with interest.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_1"
+  },
+  {
+    "text": "Another batch of shells for me! Tom clamored.",
+    "w_p": "clamor",
+    "w_a": "clam",
+    "s_p": "utter or proclaim insistently and noisily",
+    "s_a": "burrowing marine mollusk living on sand or mud; the shell closes with viselike firmness",
+    "c_w": [
+      "shells",
+      "clamored"
+    ],
+    "explanation": "A shell is a hard outer covering of an animal. A clam is a type of mollusk, and contains a shell. To clamor is to proclaim loudly. The joke is centered on the word \"clamored\" and how it relates to \"clam\" which is a type of shell. ",
+    "label": 1,
+    "is_het": true,
+    "id": "het_1363"
+  },
+  {
+    "text": "\"Here's your allowance for the next two weeks\" Tom advanced.",
+    "w_p": "advance",
+    "w_a": "advance",
+    "s_p": "bring forward for consideration or acceptance",
+    "s_a": "pay in advance",
+    "c_w": [
+      "advanced",
+      "allowance",
+      "two weeks"
+    ],
+    "explanation": "This is a play on words. The word \"advanced\" means having brought forward an idea but an \"advance\" is an amount of money received upfront.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1435"
+  },
+  {
+    "text": "I love beagles, Tom dogmatized.",
+    "w_p": "dogmatized",
+    "w_a": "dog",
+    "s_p": "speak dogmatically; state as a dogma",
+    "s_a": "a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds",
+    "c_w": [
+      "I love",
+      "beagles"
+    ],
+    "explanation": "The joke is a pun. A beagle is a breed of dog.  To 'dogmatize' something is to represent it as an incontrovertible truth.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_990"
+  },
+  {
+    "text": "I've figured it out! - said Tom proudly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_86"
+  },
+  {
+    "text": "\"I won't finish in fifth place\" Tom held forth.",
+    "w_p": "forth",
+    "w_a": "fourth",
+    "s_p": "out into view",
+    "s_a": "following the third position; number four in a countable series; coming next after the third and just before the fifth in position or time or degree or magnitude; in the fourth place",
+    "c_w": [
+      "fifth",
+      "place"
+    ],
+    "explanation": "The joke is a pun. To 'hold forth' is to talk lengthily, assertively, or tediously about a subject.  The speaker is likely in fourth place in a race, based on the context, and they sound like they want to hold their position in fourth place, or 'hold fourth'.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_1070"
+  },
+  {
+    "text": "\"Who discovered radium?\" asked Tom curiously.",
+    "w_p": "curiously",
+    "w_a": "curie",
+    "s_p": "with curiosity",
+    "s_a": "French chemist (born in Poland) who won two Nobel prizes; one (with her husband and Henri Becquerel) for research on radioactivity and another for her discovery of radium and polonium (1867-1934)",
+    "c_w": [
+      "discovered radium"
+    ],
+    "explanation": "This is a play on words. The word \"curiously\" means spoken in a way that shows eagerness to learn but Marie \"Curie\" was a famous scientist inolved in the discovery and isolation of radium.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_1159"
+  },
+  {
+    "text": "The sun is hot today - said Tom, vainly trying to change the topic.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_98"
+  },
+  {
+    "text": "\"There's room for one more\" Tom admitted.",
+    "w_p": "admit",
+    "w_a": "admit",
+    "s_p": "declare to be true or admit the existence or reality or truth of",
+    "s_a": "allow to enter; grant entry to",
+    "c_w": [
+      "room for one",
+      "more"
+    ],
+    "explanation": "Admitted means to confess to be true. Admitted can also mean to allow someone to enter a place. This pun is a play on the word admitted.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_14"
+  },
+  {
+    "text": "\"Angel dust? Me? Never touch it!\" Tom snorted.",
+    "w_p": "snort",
+    "w_a": "snort",
+    "s_p": "make a snorting sound by exhaling hard",
+    "s_a": "inhale recreational drugs",
+    "c_w": [
+      "Angel dust",
+      "snorted"
+    ],
+    "explanation": "This is a play on words. The word \"snorted\" means to make a sound with one's nose to express indignation but \"snort\" also means to inhale something through your nostrils, as one does with angel dust.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_22"
+  },
+  {
+    "text": "This sweater is crafted perfectly - said Tom warmly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_19"
+  },
+  {
+    "text": "\"I have to keep this fire alight\" Tom bellowed.",
+    "w_p": "bellow",
+    "w_a": "bellows",
+    "s_p": "shout loudly and without restraint",
+    "s_a": "(used in the plural) a mechanical device that blows a strong current of air; used to make a fire burn more fiercely or to sound a musical instrument",
+    "c_w": [
+      "bellowed",
+      "fire alight"
+    ],
+    "explanation": "The joke is a pun.  'Bellows' are a tool that is used to blow air into a flame to keep it lit with oxygen.  To 'bellow' in speech is to yell or holler.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_145"
+  },
+  {
+    "text": "These shoes are uncomfortable - said Tom uncomfortably.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_76"
+  },
+  {
+    "text": "The organizers from Poland told me we should polish our ideas - said Tom with a smile.",
+    "w_p": "polish",
+    "w_a": "polish",
+    "s_p": "to make or become elegant or refined; improve",
+    "s_a": "belonging to or relating to Poland, its people, or its language",
+    "c_w": [
+      "ideas",
+      "should",
+      "Poland"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "pos_11"
+  },
+  {
+    "text": "So, what do you think? - said Tom, still probing my knowledge.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_54"
+  },
+  {
+    "text": "I hope this barber is a cut above - said Tom nicely.",
+    "w_p": "cut above",
+    "w_a": "cut above",
+    "s_p": "superior to the norm",
+    "s_a": "to have your hair cut",
+    "c_w": [
+      "hope",
+      "is a",
+      "barber"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "pos_8"
+  },
+  {
+    "text": "\"Consult an investment broker\" was Tom's stock answer.",
+    "w_p": "stock",
+    "w_a": "stock",
+    "s_p": "routine",
+    "s_a": "the capital raised by a corporation through the issue of shares entitling holders to an ownership interest (equity)",
+    "c_w": [
+      "answer",
+      "broker"
+    ],
+    "explanation": "A stock answer is an answer that is prepared and always the same. A stock is the amount of capital raised by a business. Investment brokers conduct investment transactions on behalf of a client, and stocks are seen as an investment. This joke is centered on the word \"stock\" and its different meanings.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_284"
+  },
+  {
+    "text": "I own many pencils - said Tom succinctly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_42"
+  },
+  {
+    "text": "We need to refine our ideas - said Tom insightfully.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_41"
+  },
+  {
+    "text": "It's marine biology - said Tom, suddenly interested.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_15"
+  },
+  {
+    "text": "I prepared steak tartare - said Tom frankly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_77"
+  },
+  {
+    "text": "The critics panned the film exhibition for poor photography - said Tom feeling exhausted.",
+    "w_p": "panned",
+    "w_a": "panned",
+    "s_p": "to criticize something severely",
+    "s_a": "to move slowly a video camera from one side to another or up and down",
+    "c_w": [
+      "critics",
+      "poor",
+      "film",
+      "photography"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "pos_14"
+  },
+  {
+    "text": "I'm making sweaters - said Tom warmly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_56"
+  },
+  {
+    "text": "This perfume is scentsational - said Tom excitedly.",
+    "w_p": "scentsational",
+    "w_a": "sensational",
+    "s_p": "of or relating to scent, a pleasant natural smell",
+    "s_a": "very good, exciting, outstanding",
+    "c_w": [
+      "perfume",
+      "is",
+      "excitedly"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "pos_4"
+  },
+  {
+    "text": "Go away, you snake! Tom rattled off.",
+    "w_p": "rattle off",
+    "w_a": "rattle",
+    "s_p": "recite volubly or extravagantly",
+    "s_a": "loosely connected horny sections at the end of a rattlesnake's tail",
+    "c_w": [
+      "rattled off",
+      "snake",
+      "Go away"
+    ],
+    "explanation": "The joke is a pun. A rattle snake is a type of snake that this may be.  To rattle something off is to say something quickly or easily from memory.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_751"
+  },
+  {
+    "text": "It's all in the past now - said Tom decisively.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_30"
+  },
+  {
+    "text": "I do not believe in God - said Tom unapologetically.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_96"
+  },
+  {
+    "text": "\"It's a unit of electric current\" said Tom amply.",
+    "w_p": "amply",
+    "w_a": "amp",
+    "s_p": "to an ample degree or in an ample manner",
+    "s_a": "the basic unit of electric current adopted under the Systeme International d'Unites",
+    "c_w": [
+      "electric current",
+      "unit"
+    ],
+    "explanation": "Amply means more than enough, or sufficiently. An amp is the base unit of an electric current. We see \"amp\" in amply. ",
+    "label": 1,
+    "is_het": true,
+    "id": "het_1342"
+  },
+  {
+    "text": "I won't eat those mushrooms - said Tom reluctantly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_9"
+  },
+  {
+    "text": "Care to join me on the hammock? - said Tom leisurely.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_21"
+  },
+  {
+    "text": "You would not believe it - said Tom, feeling very bored.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_50"
+  },
+  {
+    "text": "I can fix those curtains - said Tom confidently.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_3"
+  },
+  {
+    "text": "I'll create a keychain - said Tom contentedly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_63"
+  },
+  {
+    "text": "It was an exciting performance - said Tom energetically.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_75"
+  },
+  {
+    "text": "I sold my vacuum cleaner - said Tom - it was unused.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_25"
+  },
+  {
+    "text": "I'm abstaining from food today - said Tom without hesitation.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_18"
+  },
+  {
+    "text": "\"I make the armour out of chain links\" Tom replied by mail.",
+    "w_p": "mail",
+    "w_a": "mail",
+    "s_p": "the bags of letters and packages that are transported by the postal service",
+    "s_a": "(Middle Ages) flexible armor made of interlinked metal rings",
+    "c_w": [
+      "by mail",
+      "chain links",
+      "armour"
+    ],
+    "explanation": "The joke is a pun. Armor made from chain links is called mail. Mail is also the delivery of packages and letters.  Tom is talking about making mail and he replied by mail.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_174"
+  },
+  {
+    "text": "I dropped the glue - said Tom with a mischievous look.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_58"
+  },
+  {
+    "text": "I made a portrait of you - said Tom visually.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_90"
+  },
+  {
+    "text": "I sold my vacuum cleaner - said Tom happily - it was just collecting dust.",
+    "w_p": "collecting dust",
+    "w_a": "collecting dust",
+    "s_p": "to not be used for a long time",
+    "s_a": "to gather dust and remove it from surfaces, for example with a vacuum cleaner",
+    "c_w": [
+      "sold",
+      "just",
+      "vacuum cleaner"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "pos_7"
+  },
+  {
+    "text": "No need to exaggerate - said Tom extremely serious.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_17"
+  },
+  {
+    "text": "I maintain lofty standards - said Tom confidently.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_64"
+  },
+  {
+    "text": "It's a common misunderstanding - said Tom repeatedly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_27"
+  },
+  {
+    "text": "I'm retreating - said Tom while moving backwards.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_24"
+  },
+  {
+    "text": "I was wondering why the ball was getting bigger - said Tom - then it hit me.",
+    "w_p": "hit",
+    "w_a": "hit",
+    "s_p": "suddenly understand or think of something",
+    "s_a": "to touch something with sudden force",
+    "c_w": [
+      "wondering why",
+      "then",
+      "ball",
+      "getting bigger"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "pos_3"
+  },
+  {
+    "text": "I dislike insects in my pasta - said Tom with concern.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_43"
+  },
+  {
+    "text": "I'm a big fan of heavy metal - said Tom with a firm commitment.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_10"
+  },
+  {
+    "text": "You wood not believe it - said Tom - feeling bored.",
+    "w_p": "wood",
+    "w_a": "would",
+    "s_p": "a hard substance that forms the branches and trunks of trees and can be used as a building material",
+    "s_a": "modal verb used to refer to future time from the point of view of the past",
+    "c_w": [
+      "bored",
+      "not believe it"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "pos_13"
+  },
+  {
+    "text": "I'm going to the lecture on asynchronous programming - said Tom promptly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_12"
+  },
+  {
+    "text": "I celebrated gluten-free bread - said Tom loudly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_79"
+  },
+  {
+    "text": "Care for a quick bite together? - No, I'm fasting today - said Tom slowly.",
+    "w_p": "fasting",
+    "w_a": "fasting",
+    "s_p": "to have a period of time when you eat no food",
+    "s_a": "related to being fast; moving or happening quickly or able to move or happen quickly",
+    "c_w": [
+      "I'm",
+      "food",
+      "slowly",
+      "quick"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "pos_5"
+  },
+  {
+    "text": "I got a wifi connection - said Tom calmly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_62"
+  },
+  {
+    "text": "This story feels dull - said Tom with boredom.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_35"
+  },
+  {
+    "text": "I really support wind energy - said Tom casually.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_0"
+  },
+  {
+    "text": "I'm the quickest runner - said Tom swiftly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_68"
+  },
+  {
+    "text": "I can offer direction - said Tom helpfully.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_46"
+  },
+  {
+    "text": "I'm enhancing my vocabulary - said Tom richly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_85"
+  },
+  {
+    "text": "A circle manages everything eventually - said Tom circularly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_80"
+  },
+  {
+    "text": "I'll eat more sweets if I can - said Tom honestly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_5"
+  },
+  {
+    "text": "\"I'm putting on my T - shirt, shorts, and sunglasses\" Tom summarised.",
+    "w_p": "summarise",
+    "w_a": "summerize",
+    "s_p": "give a summary (of); give a summary (of)",
+    "s_a": "prepare for summer",
+    "c_w": [
+      "sunglasses",
+      "T-shirt",
+      "shorts",
+      "summarised"
+    ],
+    "explanation": "The joke is a pun. To 'summarise' is to quickly explain something in a summary of events or items.  'Summarise' sounds like 'summer-ize' which could probably mean to prepared for summer, as T - shirt, shorts, and sunglasses are all typically worn in the summer.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_795"
+  },
+  {
+    "text": "I appreciate my new barber - said Tom.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_48"
+  },
+  {
+    "text": "I'll eat more sweets if I can - said Tom candidly.",
+    "w_p": "candidly",
+    "w_a": "candied",
+    "s_p": "in a way that is honest and true, especially about something difficult or painful",
+    "s_a": "preserved by boiling in sugar",
+    "c_w": [
+      "said",
+      "sweets"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "pos_1"
+  },
+  {
+    "text": "I'm on the math team - said Tom, calculating the points.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_22"
+  },
+  {
+    "text": "Have a ride in my new ambulance, said Tom hospitably.",
+    "w_p": "hospitably",
+    "w_a": "hospital",
+    "s_p": "in a hospitable manner",
+    "s_a": "a medical institution where sick or injured people are given medical or surgical care; a health facility where patients receive treatment",
+    "c_w": [
+      "ambulance",
+      "said",
+      "ride",
+      "hospitably."
+    ],
+    "explanation": "The joke is a pun. To say or do something 'hospitably' is to be receiving or treating guests or strangers warmly and generously.  The word 'hospitably' is similar to 'hospital' which is a medical facility that an ambulance would be used to transfer an injured or sick person to.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_1494"
+  },
+  {
+    "text": "This bookshelf belongs to me - said Tom possessively.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_67"
+  },
+  {
+    "text": "Math is my greatest interest - said Tom sincerely.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_52"
+  },
+  {
+    "text": "\"I can take photographs if I want to!\" Tom snapped.",
+    "w_p": "snap",
+    "w_a": "snap",
+    "s_p": "utter in an angry, sharp, or abrupt tone",
+    "s_a": "record on photographic film",
+    "c_w": [
+      "snapped",
+      "photographs"
+    ],
+    "explanation": "The joke is a pun. To 'snap' can mean to make a sudden loud or angry retort to someone.  One could also 'snap' a picture, meaning to capture a picture.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_670"
+  },
+  {
+    "text": "\"I've gained thirty pounds\" said Tom heavily.",
+    "w_p": "heavily",
+    "w_a": "heavy",
+    "s_p": "slowly as if burdened by much weight",
+    "s_a": "of comparatively great physical weight or density",
+    "c_w": [
+      "said",
+      "heavily.",
+      "pounds",
+      "gained"
+    ],
+    "explanation": "The joke is a pun.  To gain pounds would make someone heavy.  To say something heavily means to say it to a great degree; in large amounts, or with great force.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_542"
+  },
+  {
+    "text": "The cheese is unusually sweet - said Tom sarcastically.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_45"
+  },
+  {
+    "text": "My trumpet solos are impressive - said Tom confidently.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_81"
+  },
+  {
+    "text": "I will sit near the candle - said Tom clearly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_69"
+  },
+  {
+    "text": "\"I have to wear this cast for another six weeks\" said Tom disjointedly.",
+    "w_p": "disjointedly",
+    "w_a": "disjoint",
+    "s_p": "in a disjointed manner",
+    "s_a": "separate at the joints",
+    "c_w": [
+      "have to wear",
+      "said",
+      "cast"
+    ],
+    "explanation": "The joke is a pun.  The person says something 'disjointedly' which is to say it in a manner lacking in coherence.  The person is wearing a cast, which means they may have broken a bone or joint in their body.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_782"
+  },
+  {
+    "text": "I was completely exonerated, said Tom clearly.",
+    "w_p": "clearly",
+    "w_a": "clear",
+    "s_p": "in an intelligible manner",
+    "s_a": "the state of being free of suspicion",
+    "c_w": [
+      "exonerated"
+    ],
+    "explanation": "This is a play on words. The word \"clearly\" means without doubt but \"cleared\" also is a term that means charges have been lifted, which is what happens when someone is exonerated.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_889"
+  },
+  {
+    "text": "My doll collection is remarkable - said Tom passionately.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_88"
+  },
+  {
+    "text": "\"I have to sing a run of eighth notes\" said Tom quaveringly.",
+    "w_p": "quaveringly",
+    "w_a": "quaver",
+    "s_p": "in an unsteady quavering manner",
+    "s_a": "a musical note having the time value of an eighth of a whole note",
+    "c_w": [
+      "eighth notes"
+    ],
+    "explanation": "This is a play on words. The word \"quaveringly\" means to speak in a quivering voice but \"quaver\" is a term for an eighth of a note in music.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_952"
+  },
+  {
+    "text": "This metal rail is sturdy - said Tom firmly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_89"
+  },
+  {
+    "text": "I acquired new frames - said Tom, overly cautious.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_71"
+  },
+  {
+    "text": "This is the Netherlands, Tom stated flatly.",
+    "w_p": "flatly",
+    "w_a": "flat",
+    "s_p": "in an unqualified manner",
+    "s_a": "horizontally level",
+    "c_w": [
+      "Netherlands"
+    ],
+    "explanation": "Just because Tom's tone and the Netherlands are both flat, doesn't mean this joke is funny.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_369"
+  },
+  {
+    "text": "The crown is a valuable possession - said Tom majestically.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_84"
+  },
+  {
+    "text": "This solution is very obvious - said Tom excitedly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_26"
+  },
+  {
+    "text": "These shoes boost my confidence - said Tom honestly.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_38"
+  },
+  {
+    "text": "This perfume smells incredible - said Tom enthusiastically.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_16"
+  },
+  {
+    "text": "I've struck oil! Tom gushed.",
+    "w_p": "gush",
+    "w_a": "gush",
+    "s_p": "gush forth in a sudden stream or jet; issue in a jet; come out in a jet; stream or spring forth",
+    "s_a": "praise enthusiastically",
+    "c_w": [
+      "oil",
+      "gushed"
+    ],
+    "explanation": "This is a play on words. The word \"gushed\" means to speak with exaggerated enthusiasm but here \"gushed\" means flowing out suddenly in large volume, as oil does from the ground once an oil spring is struck.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_30"
+  },
+  {
+    "text": "This fog remains a mistery today! - said Tom ominously",
+    "w_p": "mistery",
+    "w_a": "mystery",
+    "s_p": "related to mist, thin fog produced by very small drops of water collecting in the air",
+    "s_a": "something strange or not known that has not yet been explained or understood",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "new_posi_0"
+  },
+  {
+    "text": "For a tailor, you really don't seam that much better than me! - said Tom sharply",
+    "w_p": "seam",
+    "w_a": "seem",
+    "s_p": "a line where two pieces of fabric are joined",
+    "s_a": "to appear, to give the effect of being",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "new_posi_1"
+  },
+  {
+    "text": "I once got into a heated argument with a chicken - said Tom - That was fowl play!",
+    "w_p": "fowl",
+    "w_a": "foul",
+    "s_p": "referring to a bird like a chicken",
+    "s_a": "Unfair, unethical, or criminal",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "new_posi_2"
+  },
+  {
+    "text": "I tried to organize a race for my vegetables - said Tom - but they couldn't beet the competition!",
+    "w_p": "beet",
+    "w_a": "beat",
+    "s_p": "a type of vegetable",
+    "s_a": "to defeat",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "new_posi_3"
+  },
+  {
+    "text": "I have split personality - said Tom being Frank.",
+    "w_p": "Frank",
+    "w_a": "frank",
+    "s_p": "a proper noun (a name)",
+    "s_a": "describing someone as honest or direct",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "new_posi_4"
+  },
+  {
+    "text": "Watch out for that broken glass! - Tom exclaimed sharply.",
+    "w_p": "sharply",
+    "w_a": "sharp",
+    "s_p": "describing an abrupt or incisive manner of speaking",
+    "s_a": "having a keen, cutting edge (like broken glass)",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "new_posi_5"
+  },
+  {
+    "text": "I tried to catch some fog - said Tom - I mist!",
+    "w_p": "mist",
+    "w_a": "missed",
+    "s_p": "thin fog produced by very small drops of water collecting in the air",
+    "s_a": "to fail to hit something, or to avoid hitting something",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "new_posi_6"
+  },
+  {
+    "text": "The vegetables are overcooked! - Tom steamed.",
+    "w_p": "steamed",
+    "w_a": "steamed",
+    "s_p": "cooked using steam",
+    "s_a": "expressing extreme anger or irritation",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "new_posi_7"
+  },
+  {
+    "text": "I like modern painting - said Tom abstractly",
+    "w_p": "abstractly",
+    "w_a": "abstract",
+    "s_p": "in a vague or non-specific manner",
+    "s_a": "in art, a type of painting, drawing, or sculpture that uses shapes, lines, and colour in a way that does not try to represent the appearance of people or things",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "new_posi_8"
+  },
+  {
+    "text": "My favourite number is two! - Tom said evenly",
+    "w_p": "evenly",
+    "w_a": "even",
+    "s_p": "in a balanced, uniform manner",
+    "s_a": "forming a whole number that can be divided exactly by two",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "new_posi_9"
+  },
+  {
+    "text": "I can't think of anything to write - Tom confessed blankly.",
+    "w_p": "blankly",
+    "w_a": "blank",
+    "s_p": "in an expressionless or empty manner",
+    "s_a": "devoid of content, like a blank sheet",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "new_posi_10"
+  },
+  {
+    "text": "She pulled the wool over my eyes - Tom admitted sheepishly.",
+    "w_p": "sheepishly",
+    "w_a": "sheep",
+    "s_p": "in an embarrassed or timid manner",
+    "s_a": "a farm animal with thick wool",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "new_posi_11"
+  },
+  {
+    "text": "This must be an aerobics class! - Tom worked out silently.",
+    "w_p": "worked out",
+    "w_a": "worked out",
+    "s_p": "engaged in physical exercise",
+    "s_a": "resulted in or concluded",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "new_posi_12"
+  },
+  {
+    "text": "Don't add too much water - said Tom with great concentration.",
+    "w_p": "concentration",
+    "w_a": "concentration",
+    "s_p": "the ability to think carefully about something you are doing and nothing else",
+    "s_a": "the exact amount of one particular substance that is found in another substance",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "new_posi_13"
+  },
+  {
+    "text": "There's no more room in the hay barn - said Tom balefully",
+    "w_p": "balefully",
+    "w_a": "bales",
+    "s_p": "in a way that shows a threat to do something bad or hurt someone",
+    "s_a": "alluding to 'bales' of hay in the barn",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "new_posi_14"
+  },
+  {
+    "text": "Let's get married - proposed Tom engagingly.",
+    "w_p": "engagingly",
+    "w_a": "engaged",
+    "s_p": "in a way that is pleasant, attractive, and interesting",
+    "s_a": "having formally agreed to marry",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "new_posi_15"
+  },
+  {
+    "text": "Where's the cheese? - asked Tom gratingly.",
+    "w_p": "gratingly",
+    "w_a": "grating",
+    "s_p": "in an irritating, unpleasant or annoying manner",
+    "s_a": "the act of rubbing food against the rough surface of a metal device having holes that cut it into a lot of small pieces",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "new_posi_16"
+  },
+  {
+    "text": "I'll try to dig up a couple of names - said Tom gravely.",
+    "w_p": "gravely",
+    "w_a": "grave",
+    "s_p": "in a serious manner",
+    "s_a": "a place in the ground where a dead person is buried, like a tomb",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "new_posi_17"
+  },
+  {
+    "text": "It's my maid's day off - said Tom helplessly",
+    "w_p": "helplessly",
+    "w_a": "helpless",
+    "s_p": "unable to do anything to help yourself or anyone else",
+    "s_a": "without any help from the maid",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "new_posi_18"
+  },
+  {
+    "text": "I don't like Campari - Tom said bitterly.",
+    "w_p": "bitterly",
+    "w_a": "bitter",
+    "s_p": "in a resentful or disappointed manner",
+    "s_a": "having a slightly stinging, strong taste, like the taste of Campari, an Italian alcoholic liqueur",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "new_posi_19"
+  },
+  {
+    "text": "This lemon tastes bad - Tom said sourly.",
+    "w_p": "sourly",
+    "w_a": "sour",
+    "s_p": "in a way that is unfriendly or easily annoyed",
+    "s_a": "having a sharp taste or smell, like a lemon",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "new_posi_20"
+  },
+  {
+    "text": "Happy Birthday my dear! - Tom said presently.",
+    "w_p": "presently",
+    "w_a": "present",
+    "s_p": "at this moment in time",
+    "s_a": "a gift, or something that is given",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "new_posi_21"
+  },
+  {
+    "text": "Fire! - Tom yelled alarmingly",
+    "w_p": "alarmingly",
+    "w_a": "alarm",
+    "s_p": "in a way that causes worry or fear",
+    "s_a": "a device that makes a loud noise to warn of danger, like a fire",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "new_posi_22"
+  },
+  {
+    "text": "I'll get you out of prison in no time - said Tom bailfully.",
+    "w_p": "bailfully",
+    "w_a": "balefully",
+    "s_p": "evoking 'bail', an amount of money that a person who has been accused of a crime pays to a law court so that they can be released until their trial",
+    "s_a": "in a way that shows a threat to do something bad or hurt someone",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "new_posi_23"
+  }
+]

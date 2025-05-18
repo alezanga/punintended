@@ -1,0 +1,2674 @@
+[
+  {
+    "text": "Old grapes never die, they just ferment.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_29"
+  },
+  {
+    "text": "Old accountants never die, they just become unstable.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_14"
+  },
+  {
+    "text": "Old professors never die, they just lose their class.",
+    "w_p": "class",
+    "w_a": "class",
+    "s_p": "a body of students who are taught together",
+    "s_a": "elegance in dress or behavior",
+    "c_w": [
+      "PROFESSORS",
+      "die",
+      "lose their class"
+    ],
+    "explanation": "A professor is a type of teacher that teaches at a university. To lose class means to act in a way without grace, poise, or maturity. To lose a class can also mean to lose the ability to teach a class. Class also has the definition of being a time period when a teacher teaches a group of students together. This joke is playing on the word class and its different meanings.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_2155"
+  },
+  {
+    "text": "Old rockets never die, they just stop launching.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_62"
+  },
+  {
+    "text": "Old dramas never die, they just lose popularity.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_84"
+  },
+  {
+    "text": "Old hikers never die, they just walk more gently.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_74"
+  },
+  {
+    "text": "Old printers never die, they're just not the type",
+    "w_p": "type",
+    "w_a": "type",
+    "s_p": "a person of a specified kind (usually with many eccentricities)",
+    "s_a": "printed characters",
+    "c_w": [
+      "die",
+      "PRINTERS",
+      "not the type"
+    ],
+    "explanation": "Anybody who owns a printer has had to deal with the hassle when their printer died. Not. Funny.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_113"
+  },
+  {
+    "text": "Old frogs never die, they just croak.",
+    "w_p": "croak",
+    "w_a": "croak",
+    "s_p": "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+    "s_a": "utter a hoarse sound, like a raven",
+    "c_w": [
+      "FROGS",
+      "die"
+    ],
+    "explanation": "\"To croak\" is another way of saying that someone has died. To croak is to make a deep sound from the throat. The sentence written can be taken literally or figuratively.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1851"
+  },
+  {
+    "text": "Old psychiatrists never die, they just shrink away.",
+    "w_p": "shrink",
+    "w_a": "shrink",
+    "s_p": "a physician who specializes in psychiatry",
+    "s_a": "become smaller or draw together",
+    "c_w": [
+      "die",
+      "Psychiatrists"
+    ],
+    "explanation": "This is a pun on 'shrink' which means to move back or away, especially because of fear or disgust, but it's also being used because 'shrink' is also another term for psychiatrists",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_570"
+  },
+  {
+    "text": "Old fishermen never die, they just get reel tired.",
+    "w_p": "reel",
+    "w_a": "real",
+    "s_p": "winder consisting of a revolving spool with a handle; attached to a fishing rod",
+    "s_a": "used as intensifiers; `real' is sometimes used informally for `really'; `rattling' is informal",
+    "c_w": [
+      "die",
+      "fishermen"
+    ],
+    "explanation": "This is a pun on 'real tired' which simply means to be very tired, but 'reel' is used in it's place because it sounds exactly similar and because it is also a cylinder on which film, wire, thread, or other flexible materials can be wound, like that of a fishing rod",
+    "label": 1,
+    "is_het": true,
+    "id": "het_1444"
+  },
+  {
+    "text": "Old human cannonballs never die they just get fired.",
+    "w_p": "fire",
+    "w_a": "fire",
+    "s_p": "terminate the employment of; discharge from an office or position",
+    "s_a": "cause to go off",
+    "c_w": [
+      "die",
+      "cannonballs"
+    ],
+    "explanation": "The joke is a pun. 'Get fired' could mean being terminated from a position of employment, or it could mean being launched out of a cannon, as human cannonballs in a circus tend to do.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1039"
+  },
+  {
+    "text": "Old musicians never die, they just decompose.",
+    "w_p": "decompose",
+    "w_a": "compose",
+    "s_p": "to decay, or to cause something to decay",
+    "s_a": "to produce music, poetry, or formal writing",
+    "c_w": [
+      "die",
+      "musicians"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "pos_0"
+  },
+  {
+    "text": "Old pencils never die, they just become weakened.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_55"
+  },
+  {
+    "text": "Old gardeners never die, they just throw in the trowel.",
+    "w_p": "trowel",
+    "w_a": "towel",
+    "s_p": "a small tool with a curved pointed metal blade, used in the garden for digging small holes and removing small plants from the ground",
+    "s_a": "to stop trying to do something because you have realized that you cannot succeed",
+    "c_w": [
+      "gardeners",
+      "throw in the"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "pos_2"
+  },
+  {
+    "text": "Old mugs never die, they just become more fragile.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_101"
+  },
+  {
+    "text": "Old quarterbacks never die, they just depart.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_3"
+  },
+  {
+    "text": "Old submarines never die, they just go further underwater.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_100"
+  },
+  {
+    "text": "Old airplanes never die, they just stop flying.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_53"
+  },
+  {
+    "text": "Old bees never die, they just leave the hive.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_11"
+  },
+  {
+    "text": "Old gems never die, they just become dull.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_51"
+  },
+  {
+    "text": "Old gardeners never die, they just give up gardening.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_8"
+  },
+  {
+    "text": "Old hippies never die, they just take a trip.",
+    "w_p": "trip",
+    "w_a": "trip",
+    "s_p": "a journey for some purpose (usually including the return)",
+    "s_a": "a hallucinatory experience induced by drugs",
+    "c_w": [
+      "die",
+      "HIPPIES",
+      "take a trip"
+    ],
+    "explanation": "This is a play on words. The phrase \"take a trip\" means to spend time traveling to a different place but a \"trip\" is also a term for being on hallucinogenic drugs, which hippies were known for.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_770"
+  },
+  {
+    "text": "Old trees never die, they just age.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_31"
+  },
+  {
+    "text": "Old photographers never die, they just stop concentrating.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_27"
+  },
+  {
+    "text": "Old electricians never die, they just get discharged.",
+    "w_p": "discharged",
+    "w_a": "discharge",
+    "s_p": "having lost your job",
+    "s_a": "remove the charge from",
+    "c_w": [
+      "electricians",
+      "die"
+    ],
+    "explanation": "Discharged means to be released from obligation. An electrician is someone that installs or maintains electrical equipment. Electric discharge is the release and movement of electricity through a medium. This joke is playing on the word \"discharge\" and its different meanings. ",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1450"
+  },
+  {
+    "text": "Old rabbis never die, they just get grey around the temples.",
+    "w_p": "temple",
+    "w_a": "temple",
+    "s_p": "(Judaism) the place of worship for a Jewish congregation",
+    "s_a": "the flat area on either side of the forehead",
+    "c_w": [
+      "RABBIS",
+      "die",
+      "grey",
+      "around the temples"
+    ],
+    "explanation": "A rabbi is a religious leader that can often be found preaching in temples. Temples are buildings devoted to worship. Temples can also refer to the flat part of either side of the head between the forehead and the ear. Getting grey around the temples just means to be growing grey hair around the head. ",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1563"
+  },
+  {
+    "text": "Old cows never die, they just follow along.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_70"
+  },
+  {
+    "text": "Old telephone operators never die, they just become disconnected.",
+    "w_p": "disconnect",
+    "w_a": "disconnected",
+    "s_p": "pull the plug of (electrical appliances) and render inoperable; not plugged in or connected to a power source",
+    "s_a": "lacking orderly continuity",
+    "c_w": [
+      "telephone operators",
+      "die"
+    ],
+    "explanation": "The joke is a pun. Telephone operators connect phone callers to each other.  To lose a connection could also be stretched to mean death.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1539"
+  },
+  {
+    "text": "Old mechanics never die, they just lose dexterity.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_26"
+  },
+  {
+    "text": "Old moonshiners never die, they just keep still.",
+    "w_p": "still",
+    "w_a": "still",
+    "s_p": "without moving or making a sound",
+    "s_a": "an apparatus used for the distillation of liquids; consists of a vessel in which a substance is vaporized by heat and a condenser where the vapor is condensed",
+    "c_w": [
+      "die",
+      "Moonshiners"
+    ],
+    "explanation": "This is a pun on 'still' which in this context is implying that rather than dying, old moonshiners just stay in place and don't move, but it's also being used because 'still' is also an apparatus for distilling alcoholic drinks such as whiskey.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_223"
+  },
+  {
+    "text": "Old pirates never die, they just stop sailing.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_63"
+  },
+  {
+    "text": "Old chicken farmers never die, they just end up with a dozen aches.",
+    "w_p": "ache",
+    "w_a": "egg",
+    "s_p": "a dull persistent (usually moderately intense) pain",
+    "s_a": "animal reproductive body consisting of an ovum or embryo together with nutritive and protective envelopes; especially the thin-shelled reproductive body laid by e.g. female birds",
+    "c_w": [
+      "CHICKEN FARMERS",
+      "die",
+      "end up with a dozen aches"
+    ],
+    "explanation": "I think the joke is a pun. 'Aches' sounds similar to 'eggs'.  Chickens lay eggs, and instead of dying, maybe old chicken farmers just have a lot of aches, or pains.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_1082"
+  },
+  {
+    "text": "Old weights never die, they just become less bulky.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_39"
+  },
+  {
+    "text": "Old wrestlers never die they just lose their grip.",
+    "w_p": "grip",
+    "w_a": "grip",
+    "s_p": "the act of grasping",
+    "s_a": "an intellectual hold or understanding",
+    "c_w": [
+      "WRESTLERS",
+      "die",
+      "lose their grip"
+    ],
+    "explanation": "To \"lose grip\" means to lose one's ability to think or behave in a normal way. In wrestling, grip strength, or how firmly one can hold onto something, is important. Old wrestlers apparently lose their ability to behave in a normal way, but they also lose their grip strength. This joke is playing on the term \"lose grip\" and its different meanings. ",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_520"
+  },
+  {
+    "text": "Old essays never die, they just get revised.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_69"
+  },
+  {
+    "text": "Old dogs never die, they just rest more often.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_83"
+  },
+  {
+    "text": "Old tanners never die they just go into hiding.",
+    "w_p": "hiding",
+    "w_a": "hide",
+    "s_p": "the state of being hidden",
+    "s_a": "the dressed skin of an animal (especially a large animal)",
+    "c_w": [
+      "tanners",
+      "die"
+    ],
+    "explanation": "The joke is a pun. Tanners are people who 'tan' hides of animals, making leather or similar materials.  'Hiding' sounds like it may have something to do with animal hides, but it means to make oneself unseen or unnoticed.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1441"
+  },
+  {
+    "text": "Old soccer players never die, they just achieve their final goal.",
+    "w_p": "goal",
+    "w_a": "goal",
+    "s_p": "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it",
+    "s_a": "a successful attempt at scoring",
+    "c_w": [
+      "soccer players",
+      "final"
+    ],
+    "explanation": "This is a pun on 'final goal' which in terms of soccer would mean the last goal of the game, but here it's being used to mean the players are reaching their final purpose in life",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_2180"
+  },
+  {
+    "text": "Old painters never die they just get plastered.",
+    "w_p": "plastered",
+    "w_a": "plastered",
+    "s_p": "very drunk",
+    "s_a": "(of walls) covered with a coat of plaster",
+    "c_w": [
+      "die",
+      "PAINTERS"
+    ],
+    "explanation": "This is a play on words. The word \"plastered\" means very drunk but \"plastered\" here means covered in plaster, as a building's walls would be before they are painted.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_2204"
+  },
+  {
+    "text": "Old marshmallows never die, they just harden.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_52"
+  },
+  {
+    "text": "Old lumberjacks never die, they just split.",
+    "w_p": "split",
+    "w_a": "split",
+    "s_p": "separate or cut with a tool, such as a sharp instrument",
+    "s_a": "go one's own way; move apart",
+    "c_w": [
+      "die",
+      "LUMBERJACKS"
+    ],
+    "explanation": "This is a play on words. The word \"split\" means to abruptly leave a place but \"split\" also refers to splitting or chopping trees down with an axe, as lumberjacks do.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_938"
+  },
+  {
+    "text": "Old melodies never die, they just become unforgettable.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_102"
+  },
+  {
+    "text": "Old online forums never die, they just become inactive.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_40"
+  },
+  {
+    "text": "Old sailors never die, they just lose their porpoise.",
+    "w_p": "porpoise",
+    "w_a": "purpose",
+    "s_p": "any of several small gregarious cetacean mammals having a blunt snout and many teeth",
+    "s_a": "the quality of being determined to do or achieve something; firmness of purpose",
+    "c_w": [
+      "lose their porpoise",
+      "OLD SAILORS",
+      "never die"
+    ],
+    "explanation": "This is a pun and a reformat of an existing joke, where \"X never die, they just Y\". Sailors work on boats in the ocean. A porpoise is a sea creature.  Porpoise sounds like purpose, which means a thing's meaning, calling, or reason for existing.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_217"
+  },
+  {
+    "text": "Old font designers never die, they just get bolder.",
+    "w_p": "bolder",
+    "w_a": "bolder",
+    "s_p": "fearless and daring; courageous",
+    "s_a": "stronger in colour or shape, and very noticeable to the eye",
+    "c_w": [
+      "designers",
+      "font"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "pos_10"
+  },
+  {
+    "text": "Old nitpickers never die, they just feel lousy.",
+    "w_p": "lousy",
+    "w_a": "lousy",
+    "s_p": "very bad",
+    "s_a": "infested with lice",
+    "c_w": [
+      "die",
+      "nitpickers"
+    ],
+    "explanation": "This is a pun on the word lousy and nitpicker. The word nitpicker sounds like someone who picks nits, the eggs of lice, out of their hair. Lousy sounds like the word louse. ",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_508"
+  },
+  {
+    "text": "Old magicians never die, they just disappear.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_21"
+  },
+  {
+    "text": "Old vampires never die, they just suck at life.",
+    "w_p": "suck",
+    "w_a": "suck",
+    "s_p": "to be bad or worthless",
+    "s_a": "the action of sucking something",
+    "c_w": [
+      "never die",
+      "life"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "pos_12"
+  },
+  {
+    "text": "Old policemen never die, they just retire.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_25"
+  },
+  {
+    "text": "Old maps never die, they just become outdated.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_33"
+  },
+  {
+    "text": "Old bands never die, they just break up.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_60"
+  },
+  {
+    "text": "Old explorers never die, they just keep on moving.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_45"
+  },
+  {
+    "text": "Old yachtsmen never die, they just keel over.",
+    "w_p": "keel over",
+    "w_a": "keel",
+    "s_p": "turn over and fall",
+    "s_a": "one of the main longitudinal beams (or plates) of the hull of a vessel; can extend vertically into the water to provide lateral stability",
+    "c_w": [
+      "YACHTSMEN",
+      "die"
+    ],
+    "explanation": "The joke is a pun.  A boat or yacht can 'keel over' meaning capsized or laid on their side on land, either way with the keel part of the boat showing. If a person 'keels over' it means they suddenly fall or drop or become in pain.  A heart attack would make one keel over.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1906"
+  },
+  {
+    "text": "Old hunters never die, they just bow out.",
+    "w_p": "bow out",
+    "w_a": "bow",
+    "s_p": "to leave a job or stop doing an activity, usually after a long time",
+    "s_a": "a weapon for shooting arrows, made of a long, thin piece of wood or fibreglass bent into a curve by a tightly stretched string",
+    "c_w": [
+      "never die",
+      "hunters"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "pos_6"
+  },
+  {
+    "text": "Old ranchers never die, they just breed their last.",
+    "w_p": "breed",
+    "w_a": "breathe",
+    "s_p": "cause to procreate (animals)",
+    "s_a": "draw air into, and expel out of, the lungs; be alive",
+    "c_w": [
+      "RANCHERS",
+      "die",
+      "breed their last"
+    ],
+    "explanation": "\"Breed\" sounds like \"breathe\", so \"breed their last\" kind of sounds like \"breathe their last\". When one breathes their last, it means they are taking their last breathe, essentially dying. Farmers are people that breed animals, or get animals to produce more offspring, typically for food. The joke is in the word \"breed their last\" because it sounds sort of like \"breathe their last\" but breed ties into farming. ",
+    "label": 1,
+    "is_het": true,
+    "id": "het_754"
+  },
+  {
+    "text": "Old presidents never die they just keep going through their cabinets.",
+    "w_p": "cabinet",
+    "w_a": "cabinet",
+    "s_p": "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+    "s_a": "persons appointed by a head of state to head executive departments of government and act as official advisers",
+    "c_w": [
+      "presidents",
+      "going through",
+      "die",
+      "cabinets"
+    ],
+    "explanation": "In the United States, the president has a group of people that he meets with on a frequent basis to help advise him. These people are members of the cabinet. The cabinet is a part of the executive branch of government. A cabinet can also refer to a cupboard with shelves in it for storing things. The joke is centered on the word \"cabinet\" and its different meanings. ",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_2017"
+  },
+  {
+    "text": "Old dentists never die, they just lose their pull.",
+    "w_p": "pull",
+    "w_a": "pull",
+    "s_p": "the force used in pulling; the act of pulling; applying force to move something toward or with you",
+    "s_a": "special advantage or influence",
+    "c_w": [
+      "DENTISTS",
+      "lose their pull",
+      "die"
+    ],
+    "explanation": "This is a play on words. To \"lose one's pull\" means to become less impactful but \"pull\" also refers to how dentists sometimes need to pull teeth.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1969"
+  },
+  {
+    "text": "Old butchers never die, they just meat somewhere else.",
+    "w_p": "meat",
+    "w_a": "meet",
+    "s_p": "the flesh of an animal when it is used for food",
+    "s_a": "to come together with someone",
+    "c_w": [
+      "butchers",
+      "somewhere"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "pos_9"
+  },
+  {
+    "text": "Old chemists never die, they just stop reacting.",
+    "w_p": "react",
+    "w_a": "react",
+    "s_p": "show a response or a reaction to something",
+    "s_a": "undergo a chemical reaction; react with another substance under certain conditions",
+    "c_w": [
+      "chemists",
+      "die",
+      "reacting"
+    ],
+    "explanation": "I think the joke is a pun. In chemistry, scientists study the way chemical compounds react to each other by introducing them to each other.  A person 'not reacting' to other people can mean they are ignoring them or might be stretched to imply that they are dead.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1336"
+  },
+  {
+    "text": "Old trains never die, they just stop running.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_72"
+  },
+  {
+    "text": "Old bankers never die, they just lose interest!",
+    "w_p": "interest",
+    "w_a": "interest",
+    "s_p": "the feeling of wanting to give your attention to something",
+    "s_a": "money that you earn from keeping your money in an account in a bank or other financial organization",
+    "c_w": [
+      "never die",
+      "lose",
+      "bankers"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "pos_1"
+  },
+  {
+    "text": "Old bakers never die, they just knead more dough.",
+    "w_p": "knead",
+    "w_a": "need",
+    "s_p": "to press something, especially a mixture for making bread, firmly and repeatedly with the hands and fingers",
+    "s_a": "to have to have something, or to want something very much",
+    "c_w": [
+      "bakers",
+      "dough",
+      "rich"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "pos_8"
+  },
+  {
+    "text": "Old musicians never die they just get played out.",
+    "w_p": "play out",
+    "w_a": "play out",
+    "s_p": "deplete",
+    "s_a": "perform or be performed to the end",
+    "c_w": [
+      "musicians",
+      "played out",
+      "die"
+    ],
+    "explanation": "This is a pun on 'played out' which usually means when you hear a song/ artist too much and you lose interest in them.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_2248"
+  },
+  {
+    "text": "Old cooks never die, they just get agitated.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_43"
+  },
+  {
+    "text": "Old eskimos never die, they just go cold.",
+    "w_p": "cold",
+    "w_a": "cold",
+    "s_p": "having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration",
+    "s_a": "lacking the warmth of life",
+    "c_w": [
+      "die",
+      "ESKIMOS"
+    ],
+    "explanation": "The joke is probably that Eskimos live in cold weather. No real punch line. The format does not work for this joke and therefore the setup of death has nothing to do with the joke(?) that eskimos live in cold places.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_598"
+  },
+  {
+    "text": "Old swordsmen never die, they just lose their sharpness.",
+    "w_p": "sharpness",
+    "w_a": "sharpness",
+    "s_p": "the quality of being physically quick and skillful",
+    "s_a": "the quality of having a thin edge or point that can cut something or make a hole in something",
+    "c_w": [
+      "men",
+      "swordsmen"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "pos_11"
+  },
+  {
+    "text": "Old seeds never die, they just decompose.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_56"
+  },
+  {
+    "text": "Old anchors never die, they just lose their function.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_37"
+  },
+  {
+    "text": "Old witches never die, they just retire in their hut.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_80"
+  },
+  {
+    "text": "Old lawyers never die they just lose their judgment.",
+    "w_p": "judgment",
+    "w_a": "judgment",
+    "s_p": "the legal document stating the reasons for a judicial decision; (law) the determination by a court of competent jurisdiction on matters submitted to it",
+    "s_a": "the mental ability to understand and discriminate between relations; the capacity to assess situations or circumstances shrewdly and to draw sound conclusions",
+    "c_w": [
+      "LAWYERS",
+      "die",
+      "lose"
+    ],
+    "explanation": "Lawyers are professionals that advise and represent clients in courts in front of a judge. When someone \"loses their judgment\" it means that they no longer have proper, clear understanding of a situation. ",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1323"
+  },
+  {
+    "text": "Old credit card users never die, they just expire.",
+    "w_p": "expire",
+    "w_a": "expire",
+    "s_p": "lose validity",
+    "s_a": "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+    "c_w": [
+      "credit card users",
+      "die"
+    ],
+    "explanation": "Expire is a term used to explain credit cards that exceed their period of validity. Expire is another word for die. This joke is playing on the word expire because it relates to credit card terminology, and to people.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1547"
+  },
+  {
+    "text": "Old novelists never die, they just get shelved!",
+    "w_p": "shelved",
+    "w_a": "shelved",
+    "s_p": "to cause to retire from service; dismiss",
+    "s_a": "to place or arrange on a shelf",
+    "c_w": [
+      "novelists",
+      "they"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "pos_14"
+  },
+  {
+    "text": "Old stereotypes never die, they just fade from use.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_46"
+  },
+  {
+    "text": "Old gossips never die they just lose their confidants",
+    "w_p": "confidants",
+    "w_a": "confidence",
+    "s_p": "someone to whom private matters are confided",
+    "s_a": "freedom from doubt; belief in yourself and your abilities",
+    "c_w": [
+      "lose their confidants",
+      "GOSSIPS",
+      "die"
+    ],
+    "explanation": "This could've been a better joke about a master gossiper losing their confidence (and confidants) after spreading a false rumor that blew up in their face.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_258"
+  },
+  {
+    "text": "Old nazis never die, they just keep going fuhrer.",
+    "w_p": "going fuhrer",
+    "w_a": "going further",
+    "s_p": "leader of Germany's Third Reich, usually a leader exercising the powers of a tyrant",
+    "s_a": "take something to a more advanced stage",
+    "c_w": [
+      "nazis",
+      "keep"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "pos_16"
+  },
+  {
+    "text": "Old mathematicians never die, they just lose some functions.",
+    "w_p": "function",
+    "w_a": "function",
+    "s_p": "(mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)",
+    "s_a": "the actions and activities assigned to or required or expected of a person or group",
+    "c_w": [
+      "die",
+      "loose",
+      "Mathematicians"
+    ],
+    "explanation": "This is a pun on 'functions' which in math means an expression, rule, or law that defines a relationship between one variable (the independent variable) and another variable (the dependent variable), but it also means an activity or purpose natural to or intended for a person or thing",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1504"
+  },
+  {
+    "text": "Old matches never die, they just become less useful.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_90"
+  },
+  {
+    "text": "Old bees never die, they just buzz off.",
+    "w_p": "buzz off",
+    "w_a": "buzz off",
+    "s_p": "used to tell someone to go away in a rude way",
+    "s_a": "to make a continuous, low sound such as the one a bee makes",
+    "c_w": [
+      "never die",
+      "bees"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "pos_3"
+  },
+  {
+    "text": "Old postmasters never die, they just leave their post behind",
+    "w_p": "post",
+    "w_a": "post",
+    "s_p": "the particular place where someone works, especially where a soldier is told to be for military duty, usually as a guard",
+    "s_a": "letters, etc. that are delivered to homes or places of work",
+    "c_w": [
+      "never die",
+      "leave their",
+      "postmasters"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "pos_15"
+  },
+  {
+    "text": "Old upholsterers never die, they just recover.",
+    "w_p": "recover",
+    "w_a": "recover",
+    "s_p": "get over an illness or shock",
+    "s_a": "cover anew",
+    "c_w": [
+      "die",
+      "UPHOLSTERERS"
+    ],
+    "explanation": "To upholster means to cover the walls or furniture. To recover means to return to a normal state of health, mind, or strength. To recover means to cover again. Upholsterers never die, they just recover, or return to a normal state of health, or cover again.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1185"
+  },
+  {
+    "text": "Old ghosts never die, they just become less active.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_78"
+  },
+  {
+    "text": "Old comedians never die, they just lose their humor.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_16"
+  },
+  {
+    "text": "Old statues never die, they just weather over time.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_104"
+  },
+  {
+    "text": "Old writers never die, they just get erased.",
+    "w_p": "erase",
+    "w_a": "erase",
+    "s_p": "remove from memory or existence",
+    "s_a": "remove by or as if by rubbing or erasing",
+    "c_w": [
+      "writers",
+      "die",
+      "erased"
+    ],
+    "explanation": "This is a pun on 'erased' which means rub out or remove (writing or marks), like writers do, but it also means remove all traces of (a thought, feeling, or memory), which is akin to death",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_2104"
+  },
+  {
+    "text": "Old firefighters never die they just go to blazes.",
+    "w_p": "blaze",
+    "w_a": "blaze",
+    "s_p": "a strong flame that burns brightly",
+    "s_a": "a cause of difficulty and suffering",
+    "c_w": [
+      "go to blazes",
+      "die",
+      "FIREFIGHTERS"
+    ],
+    "explanation": "This is a pun on how firefighters put out blazes and how \"go to blazes\" means to go away, which is similar to death.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1766"
+  },
+  {
+    "text": "Old sled dogs never die, they just stop running.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_32"
+  },
+  {
+    "text": "Old chefs never die, they just lose their touch.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_5"
+  },
+  {
+    "text": "Old dancers never die, they just retire from dance.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_19"
+  },
+  {
+    "text": "Old scars never die, they just become less visible.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_97"
+  },
+  {
+    "text": "Old organists never die, they just come to a stop.",
+    "w_p": "stop",
+    "w_a": "stop",
+    "s_p": "the event of something ending",
+    "s_a": "(music) a knob on an organ that is pulled to change the sound quality from the organ pipes",
+    "c_w": [
+      "ORGANISTS",
+      "die"
+    ],
+    "explanation": "This is a pun on the word \"stop\" as it means both to cease an activity (in this case life) and a part of a pipe organ.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1750"
+  },
+  {
+    "text": "Old bakers never die, they just become inactive.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_13"
+  },
+  {
+    "text": "Old plumbers never die, they just pipe down.",
+    "w_p": "pipe down",
+    "w_a": "pipe",
+    "s_p": "become quiet or quieter",
+    "s_a": "a long tube made of metal or plastic that is used to carry water or oil or gas etc.",
+    "c_w": [
+      "plumbers",
+      "die"
+    ],
+    "explanation": "This is a pun on the phrase 'pipe down' which commonly means to be quiet, but it's also being used because plumbers work on pipes",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_157"
+  },
+  {
+    "text": "Old timekeepers never die, they just operate less efficiently.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_75"
+  },
+  {
+    "text": "Old gardeners never die they just vegetate.",
+    "w_p": "vegetate",
+    "w_a": "vegetate",
+    "s_p": "lead a passive existence without using one's body or mind",
+    "s_a": "establish vegetation on; produce vegetation",
+    "c_w": [
+      "Old gardeners",
+      "die"
+    ],
+    "explanation": "gardeners deals with plants and plants live or spend a period of time in a dull, inactive, un-challenging way.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1246"
+  },
+  {
+    "text": "Old wool coats never die, they just become mothballed.",
+    "w_p": "mothball",
+    "w_a": "mothball",
+    "s_p": "put into long-term storage",
+    "s_a": "a small sphere of camphor or naphthalene used to keep moths away from stored clothing",
+    "c_w": [
+      "die",
+      "wool coats",
+      "mothballed"
+    ],
+    "explanation": "There is a play on the word \"mothballed\" here. \"Mothballs\" are a type of pest repellent used to protect things such as wool garments. \"Mothballing\" is a verb used loosely to mean retiring something from active use due to age or irrelevance. So an old wool coat, which would be protected from pests such as moths with mothballs, is retired because it is too old or worn out, that is to say it is \"mothballed\".",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1887"
+  },
+  {
+    "text": "Old fish never die, they just persistently swim.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_10"
+  },
+  {
+    "text": "Old math profs never die, they just can't differentiate.",
+    "w_p": "differentiate",
+    "w_a": "differentiate",
+    "s_p": "become distinct and acquire a different character",
+    "s_a": "calculate a derivative; take the derivative",
+    "c_w": [
+      "math profs",
+      "die"
+    ],
+    "explanation": "The word differentiate can mean to recognize what makes someone or something different. As people age, sometimes their vision gets worse, or their mental faculties decline which hinder them from being able to properly differentiate things. In mathematics, to differentiate is to transform a function into its derivative. The joke is centered around the word \"differentiate\" and ties in nicely with the old math professor described. ",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_120"
+  },
+  {
+    "text": "Old buttons never die, they just stop functioning.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_86"
+  },
+  {
+    "text": "Old cars never die, they just stop running.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_12"
+  },
+  {
+    "text": "Old sailors never die, they just leave the boat.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_30"
+  },
+  {
+    "text": "Old Europeans never die, they just become incontinent.",
+    "w_p": "incontinent",
+    "w_a": "in continent",
+    "s_p": "unable to control the excretion of urine or the contents of the bowels",
+    "s_a": "inside one of the seven large land masses on the earth's surface",
+    "c_w": [
+      "Europeans",
+      "become"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "pos_5"
+  },
+  {
+    "text": "Old athletes never die, they just quit.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_28"
+  },
+  {
+    "text": "Old philosophers never die, they just retire to their own premises.",
+    "w_p": "premises",
+    "w_a": "premise",
+    "s_p": "land and the buildings on it",
+    "s_a": "a statement that is assumed to be true and from which a conclusion can be drawn",
+    "c_w": [
+      "retire",
+      "premises.",
+      "die",
+      "philosophers"
+    ],
+    "explanation": "This is a pun on the word \"premises\" as it means both beliefs (of the philosopher) and a dwelling of their retirement.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1614"
+  },
+  {
+    "text": "Old photographers never die, they just lose their focus.",
+    "w_p": "focus",
+    "w_a": "focus",
+    "s_p": "the concentration of attention or energy on something",
+    "s_a": "maximum clarity or distinctness of an image rendered by an optical system",
+    "c_w": [
+      "die",
+      "photographers"
+    ],
+    "explanation": "This is a pun on the phrase 'lose their focus' which in the literal sense means the photographers lost their center of interest or activity, but in a photography sense 'focus' means the state or quality of having or producing clear visual definition.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_179"
+  },
+  {
+    "text": "Old roofers never die, they just face hardships.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_6"
+  },
+  {
+    "text": "Old swords never die, they just become less sharp.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_81"
+  },
+  {
+    "text": "Old plants never die, they just stop thriving.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_66"
+  },
+  {
+    "text": "Old programmers never die, they just can't c as well.",
+    "w_p": "c",
+    "w_a": "see",
+    "s_p": "a general-purpose programing language closely associated with the UNIX operating system",
+    "s_a": "perceive by sight or have the power to perceive by sight",
+    "c_w": [
+      "programmers",
+      "C"
+    ],
+    "explanation": "The joke is a pun. 'C' is the name of a commonly used programming language, and the name said out loud sounds just like the word 'see'. They don't die, they just lose their vision I guess.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_751"
+  },
+  {
+    "text": "Old caves never die, they just reflect sound less.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_98"
+  },
+  {
+    "text": "Old skiers never die, they just go downhill fast.",
+    "w_p": "downhill",
+    "w_a": "downhill",
+    "s_p": "toward a lower or inferior state",
+    "s_a": "toward the bottom of a hill",
+    "c_w": [
+      "SKIERS",
+      "die",
+      "downhill fast"
+    ],
+    "explanation": "To \"go downhill\" can be understood in the literal sense of someone moving downhill. It can also be understood as something decreasing in quality. There is a type of skiing called downhill skiing. The joke is saying that skiiers do not die, they just decrease in quality, or \"go downhill\". ",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1165"
+  },
+  {
+    "text": "Old lipsticks never die, they just fade.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_96"
+  },
+  {
+    "text": "Old musicians never die, they just fall apart.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_0"
+  },
+  {
+    "text": "Old artists never die, they just stop creating.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_48"
+  },
+  {
+    "text": "Old salesmen never die, they just go out of commission.",
+    "w_p": "commission",
+    "w_a": "commission",
+    "s_p": "a fee for services rendered based on a percentage of an amount received or collected or agreed to be paid (as distinguished from a salary)",
+    "s_a": "the state of being in good working order and ready for operation",
+    "c_w": [
+      "out of commission",
+      "die",
+      "SALESMEN"
+    ],
+    "explanation": "The joke is a pun.  'Going out of commission' means to be knocked out, unable to continue, or dead.  'Commission' in terms of sales is when a sales person gets a bonus for the number of sales they make.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1304"
+  },
+  {
+    "text": "Old clocks never die, they just slow down over time.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_2"
+  },
+  {
+    "text": "Old archers never die, they just bow and quiver.",
+    "w_p": "bow and quiver",
+    "w_a": "bow and quiver",
+    "s_p": "to bend your head or body forward and shake slightly",
+    "s_a": "a weapon for shooting arrows, along with the container for carrying arrows",
+    "c_w": [
+      "archers",
+      "die"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "new_posi_29"
+  },
+  {
+    "text": "Old computers never die, they just stop operating.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_22"
+  },
+  {
+    "text": "Old soaps never die, they just dissolve.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_58"
+  },
+  {
+    "text": "Old juicers never die, they just stop working.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_95"
+  },
+  {
+    "text": "Old logicians never die, they just vacate the premises.",
+    "w_p": "premise",
+    "w_a": "premises",
+    "s_p": "a statement that is assumed to be true and from which a conclusion can be drawn",
+    "s_a": "land and the buildings on it",
+    "c_w": [
+      "vacate",
+      "LOGICIANS",
+      "die"
+    ],
+    "explanation": "A logician is someone who studies logic. A premise can mean the base of an argument. A premise can also mean a piece of land with buildings on it. Old logicians never die, they leave (a location), or they just leave their premise, or their argument base. ",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_63"
+  },
+  {
+    "text": "Old tree surgeons never die, they are just uprooted.",
+    "w_p": "uproot",
+    "w_a": "uproot",
+    "s_p": "move (people) forcibly from their homeland into a new and foreign environment",
+    "s_a": "pull up by or as if by the roots",
+    "c_w": [
+      "tree",
+      "uprooted",
+      "surgeons"
+    ],
+    "explanation": "This is a pun on 'uprooted' which means to pull (something, especially a tree or plant) out of the ground. But it can also mean to eradicate; destroy, which is what this joke is eluding to",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_245"
+  },
+  {
+    "text": "Old cows never die, they just moove on!",
+    "w_p": "moove on",
+    "w_a": "moo on",
+    "s_p": "move forward, also in the metaphorical sense",
+    "s_a": "to emit the deep, bellowing sound made by a cow",
+    "c_w": [
+      "never die",
+      "cows"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "pos_13"
+  },
+  {
+    "text": "Old statues never die they just get busted.",
+    "w_p": "bust",
+    "w_a": "bust",
+    "s_p": "go to pieces; out of working order (`busted' is an informal substitute for `broken'); ruin completely",
+    "s_a": "a sculpture of the head and shoulders of a person",
+    "c_w": [
+      "busted",
+      "die",
+      "statues"
+    ],
+    "explanation": "This is a play on the word bust. A bust is a sculpture of a person's head to their shoulders. To bust something means to also break something. This sentence has two meanings. Statues don't die, they turn into busts. ",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1295"
+  },
+  {
+    "text": "Old feathers never die, they just drift off.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_42"
+  },
+  {
+    "text": "Old kings never die, they just retire from power.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_73"
+  },
+  {
+    "text": "Old biscuits never die, they just break apart.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_77"
+  },
+  {
+    "text": "Old golfers never die, they just lose motivation.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_9"
+  },
+  {
+    "text": "Old waves never die, they just hit the shore.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_89"
+  },
+  {
+    "text": "Old hair never dies, it just changes color.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_91"
+  },
+  {
+    "text": "Old plumbers never die, they just retire.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_17"
+  },
+  {
+    "text": "Old math professors never die, they just use strange expressions.",
+    "w_p": "expression",
+    "w_a": "expression",
+    "s_p": "the communication (in speech or writing) of your beliefs or opinions",
+    "s_a": "a group of symbols that make a mathematical statement",
+    "c_w": [
+      "math professors",
+      "expressions",
+      "strange"
+    ],
+    "explanation": "In mathematics, an expression is a sentence with a minimum of two numbers and at least one math operation. Someone using \"strange expressions\" could refer to facial expressions. But, it can also refer to using unusual math expressions. The joke is playing on the word \"expressions\".",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_638"
+  },
+  {
+    "text": "Old guitarists never die, they just become unstrung.",
+    "w_p": "unstrung",
+    "w_a": "unstrung",
+    "s_p": "remove the strings from",
+    "s_a": "emotionally upset",
+    "c_w": [
+      "become unstrung",
+      "GUITARISTS",
+      "die"
+    ],
+    "explanation": "A guitarist is someone that plays the guitar. A guitar is an instrument with strings. If something is wrong with a guitar string, say it's broken, then the broken string need to be unstrung and replaced with one that is functional. If someone is unstrung, they are upset or weak. The joke is saying that guitarists don't die, they just become upset, or weak. The joke is playing on the different definitions of \"unstrung\". ",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1565"
+  },
+  {
+    "text": "Old mathematicians never die, they just stop working.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_38"
+  },
+  {
+    "text": "Old novels never die, they just become less read.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_92"
+  },
+  {
+    "text": "Old helicopter pilots never die, they just lose their choppers.",
+    "w_p": "chopper",
+    "w_a": "chopper",
+    "s_p": "informal terms for a human `tooth'",
+    "s_a": "an aircraft without wings that obtains its lift from the rotation of overhead blades",
+    "c_w": [
+      "helicopter pilots",
+      "never die",
+      "choppers"
+    ],
+    "explanation": "Chopper is a nickname for helicopter. Choppers can also mean teeth in slang. This joke is playing on the word choppers because of its different meanings.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1636"
+  },
+  {
+    "text": "Old blasting technicians never die, they just lose their spark.",
+    "w_p": "spark",
+    "w_a": "spark",
+    "s_p": "electrical conduction through a gas in an applied electric field",
+    "s_a": "merriment expressed by a brightness or gleam or animation of countenance",
+    "c_w": [
+      "blasting technicians",
+      "never die"
+    ],
+    "explanation": "This is a pun on 'lose their spark', which usually means to lose interest in something, however it's being used here because blasting technicians work with sparks with their explosions ",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_294"
+  },
+  {
+    "text": "Old scientists never die, they just lose enthusiasm.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_24"
+  },
+  {
+    "text": "Old roots never die, they just extend further.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_79"
+  },
+  {
+    "text": "Old guitarists never die, they just fret their lives away",
+    "w_p": "fret",
+    "w_a": "fret",
+    "s_p": "worry unnecessarily or excessively",
+    "s_a": "a small bar of metal across the fingerboard of a musical instrument; when the string is stopped by a finger at the metal bar it will produce a note of the desired pitch; provide (a musical instrument) with frets",
+    "c_w": [
+      "die",
+      "guitarists"
+    ],
+    "explanation": "This is a pun on 'fret their lives away' which in this context means that rather than dying the guitarists worry their lives away, but it's also being used because 'frets' are a part of guitars",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_51"
+  },
+  {
+    "text": "Old accountants never die, they just lose their balance.",
+    "w_p": "balance",
+    "w_a": "balance",
+    "s_p": "the ability to remain standing, especially because your weight is equally distributed",
+    "s_a": "the amount of money you have in a bank account, or the amount of something that you have left after you have spent or used up the rest",
+    "c_w": [
+      "lose",
+      "accountants"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "pos_4"
+  },
+  {
+    "text": "Old air conditioner repairmen never die, they just lose their cool.",
+    "w_p": "cool",
+    "w_a": "cool",
+    "s_p": "the quality of being at a refreshingly low temperature",
+    "s_a": "great coolness and composure under strain",
+    "c_w": [
+      "AIR CONDITIONER REPAIRMEN",
+      "lose their cool",
+      "die"
+    ],
+    "explanation": "An air conditioner cools a room down. Sometimes when people get older, their temperament changes and it's easier to irritate them. When someone \"loses their cool\" it means that they lose their temper. ",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_778"
+  },
+  {
+    "text": "Old fonts never die, they just lose power.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_36"
+  },
+  {
+    "text": "Old pages never die, they just become fragile.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_71"
+  },
+  {
+    "text": "Old hats never die, they just deteriorate.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_85"
+  },
+  {
+    "text": "Old candles never die, they just extinguish.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_47"
+  },
+  {
+    "text": "Old gangsters never die, they just go to the underworld.",
+    "w_p": "underworld",
+    "w_a": "underworld",
+    "s_p": "the criminal class",
+    "s_a": "(religion) the world of the dead; - Theognis",
+    "c_w": [
+      "die",
+      "GANGSTERS"
+    ],
+    "explanation": "This is a play on words. The word \"underworld\" means a supernatural world of the dead but an \"underworld\" is also the world of criminals or organized crime.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1269"
+  },
+  {
+    "text": "Old geographers never die, they just become legends.",
+    "w_p": "legend",
+    "w_a": "legend",
+    "s_p": "a story about mythical or supernatural beings or events",
+    "s_a": "brief description accompanying an illustration",
+    "c_w": [
+      "legends",
+      "Geographers",
+      "die"
+    ],
+    "explanation": "A geographer is someone that studies the physical features of the earth and its atmosphere. A geographer uses maps in their line of work. A map is a picture that details an area. A legend can refer to a diagram on a map explaining the symbols on the map. Legends is its plural form. A legend can also mean someone that is famous. This joke is playing on the word \"legends\" and its different uses.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_2238"
+  },
+  {
+    "text": "Old automobiles never die, they just stop being car for!",
+    "w_p": "car",
+    "w_a": "cared",
+    "s_p": "a road vehicle with an engine, four wheels, and seats for a small number of people",
+    "s_a": "the process of protecting someone or something and providing what that person or thing needs",
+    "c_w": [
+      "automobiles",
+      "being",
+      "for"
+    ],
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "pos_7"
+  },
+  {
+    "text": "Old pilots never die they just go to a higher plane.",
+    "w_p": "plane",
+    "w_a": "plane",
+    "s_p": "an aircraft that has a fixed wing and is powered by propellers or jets",
+    "s_a": "a level of existence or development",
+    "c_w": [
+      "PILOTS",
+      "die",
+      "go to",
+      "higher plane"
+    ],
+    "explanation": "The joke is a pun. One might say that dying and going to heaven would be 'going to a higher plane', as in a higher realm than the mortal realm.  'Plane' meaning 'realm', is identical to the short word for airplane, 'plane'.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_350"
+  },
+  {
+    "text": "Old shoes never die, they just deteriorate.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_23"
+  },
+  {
+    "text": "Old glasses never die, they just become blurry.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_88"
+  },
+  {
+    "text": "Old detectives never die, they just become less observant.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_35"
+  },
+  {
+    "text": "Old cable lines never die, they just stop transmitting.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_94"
+  },
+  {
+    "text": "Old fireworks never die, they just stop igniting.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_57"
+  },
+  {
+    "text": "Old diaries never die, they just remain empty.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_44"
+  },
+  {
+    "text": "Old vampires never die, they just aren't effective.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_68"
+  },
+  {
+    "text": "Old librarians never die, they just lose their circulation.",
+    "w_p": "circulation",
+    "w_a": "circulation",
+    "s_p": "(library science) the count of books that are loaned by a library over a specified period",
+    "s_a": "movement through a circuit; especially the movement of blood through the heart and blood vessels",
+    "c_w": [
+      "LIBRARIANS",
+      "die",
+      "lose"
+    ],
+    "explanation": "This is a play on words. The word \"circulation\" refers to blood flow through the circulatory system that's essential to keep a person alive. However, library \"circulation\" relates to the practice of lending library books to users.",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_1647"
+  },
+  {
+    "text": "Old sailors never die, they just get a little dinghy.",
+    "w_p": "dinghy",
+    "w_a": "dingy",
+    "s_p": "a small boat of shallow draft with cross thwarts for seats and rowlocks for oars with which it is propelled",
+    "s_a": "thickly covered with ingrained dirt or soot",
+    "c_w": [
+      "a little dinghy",
+      "get",
+      "die",
+      "sailors"
+    ],
+    "explanation": "The joke is a pun.  A dinghy is a small boat usually used for getting to and from a main boat.  The word 'dinghy' sounds like 'ding' which could be taken as a 'dent' or meaning 'slightly damaged'.",
+    "label": 1,
+    "is_het": true,
+    "id": "het_1639"
+  },
+  {
+    "text": "Old vampires never die, they just become apathetic.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "neg_64"
+  },
+  {
+    "text": "Old door framers never die, they just become unhinged.",
+    "w_p": "unhinge",
+    "w_a": "unhinge",
+    "s_p": "disturb in mind or make uneasy or cause to be worried or alarmed",
+    "s_a": "remove the hinges from",
+    "c_w": [
+      "DOOR FRAMERS",
+      "die"
+    ],
+    "explanation": "Doors have hinges. Hinges are a movable joint which a door swings on. Sometimes with repeated use and age, a door can become unhinged and will need to be fixed. To \"become unhinged\" can also refer to a mentally unbalanced, or deranged human being. The joke is referring to old door framers, and is playing on the word \"unhinged\". ",
+    "label": 1,
+    "is_het": false,
+    "id": "hom_99"
+  },
+  {
+    "text": "Old lawn care workers never die, they just recede.",
+    "w_p": "recede",
+    "w_a": "reseed",
+    "s_p": "become faint or more distant; retreat; pull back or move away or backward",
+    "s_a": "seed again or anew",
+    "c_w": [
+      "workers",
+      "lawn care"
+    ],
+    "explanation": "This is a pun on 'recede' which means to go or move back or further away from a previous position and it's being used here because lawns can recede over time ",
+    "label": 1,
+    "is_het": true,
+    "id": "het_1226"
+  },
+  {
+    "text": "Old wise wizards never die, they just keep improving their spelling.",
+    "w_p": "spelling",
+    "w_a": "spelling",
+    "s_p": "forming words with the correct letters in order",
+    "s_a": "the act of casting spells",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "new_posi_0"
+  },
+  {
+    "text": "Old wise wizards never die, they just keep perfecting their magic.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "new_nega_0"
+  },
+  {
+    "text": "Old squirrels never die, they just keep going nuts!",
+    "w_p": "nuts",
+    "w_a": "nuts",
+    "s_p": "crazy, foolish, or wild behavior",
+    "s_a": "the edible dry fruit encased in a hard shell",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "new_posi_1"
+  },
+  {
+    "text": "Old squirrels never die, they just keep going mad.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "new_nega_1"
+  },
+  {
+    "text": "Old crabs never die, they just become a little more shellfish!",
+    "w_p": "shellfish",
+    "w_a": "selfish",
+    "s_p": "sea creatures living in shells",
+    "s_a": "being overly self-centered",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "new_posi_2"
+  },
+  {
+    "text": "Old crabs never die, they just become more self-centered.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "new_nega_2"
+  },
+  {
+    "text": "Old clocks never die, they just always have a second hand.",
+    "w_p": "second hand",
+    "w_a": "second hand",
+    "s_p": "the clock hand that counts seconds",
+    "s_a": "something that is pre-owned and have been used by someone else",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "new_posi_3"
+  },
+  {
+    "text": "Old dentists never die, they just keep coming up with fresh humor.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "new_nega_4"
+  },
+  {
+    "text": "Old comedian-nurses never die, they just always leave the audience in stitches.",
+    "w_p": "stitches",
+    "w_a": "stitches",
+    "s_p": "in a state of uncontrollable laughter",
+    "s_a": "surgical threads used to close wounds",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "new_posi_5"
+  },
+  {
+    "text": "Old baboons never die, they just always maintain their discipline.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "new_nega_6"
+  },
+  {
+    "text": "Old mathematicians never die, they just keep solving their problems.",
+    "w_p": "problems",
+    "w_a": "problems",
+    "s_p": "mathematical exercises",
+    "s_a": "challenges or difficulties in life",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "new_posi_8"
+  },
+  {
+    "text": "Old mathematicians never die, they just continue to face new challenges.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "new_nega_8"
+  },
+  {
+    "text": "Old musicians never die, they just leave of their own chord.",
+    "w_p": "chord",
+    "w_a": "accord",
+    "s_p": "three or more musical notes played at the same time",
+    "s_a": "do something without being asked to do it",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "new_posi_9"
+  },
+  {
+    "text": "Old musicians never die, they just always create harmonious tunes.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "new_nega_9"
+  },
+  {
+    "text": "Old runners never die, they just keep lapping up new challenges.",
+    "w_p": "lapping",
+    "w_a": "lapping",
+    "s_p": "completing a circuit in a race",
+    "s_a": "eagerly consuming or embracing something",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "new_posi_10"
+  },
+  {
+    "text": "Old runners never die, they just continually face new challenges.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "new_nega_10"
+  },
+  {
+    "text": "Old bakers never die, they just always rise to the occasion.",
+    "w_p": "rise",
+    "w_a": "rise",
+    "s_p": "the process of dough expanding when baked",
+    "s_a": "responding effectively to a challenge",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "new_posi_11"
+  },
+  {
+    "text": "Old mechanics never die, they just keep shifting gears.",
+    "w_p": "shifting gears",
+    "w_a": "shifting gears",
+    "s_p": "operate a device that controls how much power goes to the moving parts of a machine",
+    "s_a": "metaphorically adapting or changing approach",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "new_posi_12"
+  },
+  {
+    "text": "Old painters never die, they just keep brushing off the years.",
+    "w_p": "brushing",
+    "w_a": "brushing",
+    "s_p": "the act of applying paint with a brush",
+    "s_a": "dismissing or overcoming the effects of time",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "new_posi_13"
+  },
+  {
+    "text": "Old chauffeurs never die, they just never run out of drive.",
+    "w_p": "drive",
+    "w_a": "drive",
+    "s_p": "the mechanism that propels a vehicle",
+    "s_a": "personal motivation or determination",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "new_posi_14"
+  },
+  {
+    "text": "Old chauffeurs never die, they just continue to be full of determination.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "new_nega_14"
+  },
+  {
+    "text": "Old books never die, they just keep turning new pages.",
+    "w_p": "pages",
+    "w_a": "pages",
+    "s_p": "the physical sheets of paper in a book",
+    "s_a": "a metaphor for starting new chapters in life",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "new_posi_15"
+  },
+  {
+    "text": "Old fishermen never die, they just keep reeling in all their life.",
+    "w_p": "reeling in",
+    "w_a": "reeling",
+    "s_p": "using a fishing reel to catch fish",
+    "s_a": "to feel very confused or shocked",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "new_posi_16"
+  },
+  {
+    "text": "Old fishermen never die, they just consistently capture life's opportunities.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "new_nega_16"
+  },
+  {
+    "text": "Old gardeners never die, they just keep growing on you.",
+    "w_p": "growing on you",
+    "w_a": "growing on you",
+    "s_p": "the literal growth of plants",
+    "s_a": "gradually becoming more endearing",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "new_posi_17"
+  },
+  {
+    "text": "Old gardeners never die, they just gradually become taller.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "new_nega_17"
+  },
+  {
+    "text": "Old programmers never die, they just persistently resolve life's issues.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "new_nega_19"
+  },
+  {
+    "text": "Old athletes never die, they just keep playing the field.",
+    "w_p": "playing the field",
+    "w_a": "playing in the field",
+    "s_p": "engaging in varied pursuits or relationships",
+    "s_a": "competing in sports on a field",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "new_posi_20"
+  },
+  {
+    "text": "Old chefs never die, they are just to seasoned for that.",
+    "w_p": "seasoned",
+    "w_a": "seasoned",
+    "s_p": "with salt, pepper, herbs, or spices added to enhance flavor",
+    "s_a": "having a lot of experience and therefore knowing how to do something well",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "new_posi_21"
+  },
+  {
+    "text": "Old damaged dolls never die, they just keep getting redress.",
+    "w_p": "redress",
+    "w_a": "re-dressed",
+    "s_p": "a compensation received in order to correct a wrong",
+    "s_a": "being given new outfits",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": true,
+    "id": "new_posi_22"
+  },
+  {
+    "text": "Old ice cubes never die, they just keep chilling out.",
+    "w_p": "chilling",
+    "w_a": "chilling",
+    "s_p": "maintaining a cold temperature",
+    "s_a": "relaxing or taking it easy",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "new_posi_23"
+  },
+  {
+    "text": "Old computers never die, they just keep rebooting.",
+    "w_p": "rebooting",
+    "w_a": "rebooting",
+    "s_p": "restarting a computer's operating system",
+    "s_a": "to start something again or do something again, in a way that is new and interesting",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "new_posi_24"
+  },
+  {
+    "text": "Old computers never die, they just keep restarting their os.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "new_nega_24"
+  },
+  {
+    "text": "Old cheetahs never die, they just always get spotted.",
+    "w_p": "spotted",
+    "w_a": "spotted",
+    "s_p": "having a pattern of spots",
+    "s_a": "being noticed or seen",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "new_posi_25"
+  },
+  {
+    "text": "Old cheetahs never die, they just continue to be noticed.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "new_nega_25"
+  },
+  {
+    "text": "Old accountants never die, they just continue to manage the numbers.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "new_nega_26"
+  },
+  {
+    "text": "Old lawyers never die, they just keep appealing to life.",
+    "w_p": "appealing",
+    "w_a": "appealing",
+    "s_p": "requesting a review of a legal decision",
+    "s_a": "being attractive or to spark one's interest or appreciation.",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "new_posi_27"
+  },
+  {
+    "text": "Old farmers never die, they just keep reaping the benefits.",
+    "w_p": "reaping",
+    "w_a": "reaping",
+    "s_p": "harvesting crops",
+    "s_a": "gaining advantages or rewards",
+    "c_w": null,
+    "explanation": null,
+    "label": 1,
+    "is_het": false,
+    "id": "new_posi_28"
+  },
+  {
+    "text": "Old chocolatiers never die, they just continue to help people.",
+    "w_p": null,
+    "w_a": null,
+    "s_p": null,
+    "s_a": null,
+    "c_w": null,
+    "explanation": null,
+    "label": 0,
+    "is_het": null,
+    "id": "new_nega_29"
+  }
+]
