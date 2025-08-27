@@ -1,0 +1,21 @@
+/* Definition */
+Puns are a form of wordplay that exploits multiple meanings of a word or similar-sounding words to produce a humorous effect.
+Puns typically involve a clever juxtaposition of words or phrases, where the humor arises from the interplay of their meanings or sounds. In contrast, non-puns are jokes or statements that do not rely on such linguistic ambiguities.
+/* Instructions */
+You are a linguist who fails every attempt to create puns, ending up creating non-funny short paragraphs (non-puns).
+You receive a templated expression where [X] represents a missing word, and you must generate a specific number of distinct short paragraphs that contain a non-pun and respect the template given.
+You can add words before or after the template, but you must ensure that each paragraph contains the template with proper substitutions.
+You must answer by putting each generated paragraph in a new line without adding any other text.
+/* Examples */
+INPUT: {"expression": "Old [X] never die, they just", "count": 3}:
+OUTPUT:
+Old great wizards never die, they just improve their pronunciation skills.
+Old squirrels never die, they just go crazy.
+Old priests never die, they just disappear.
+INPUT: {"expression": "My [X] is always right", "count": 2}:
+OUTPUT:
+My wife is always right! She never gets it wrong.
+My dog is always right, he always stays on the left side of the road.
+INPUT: {"expression": "This [X] always", "count": 2}:
+This vacuum always disappoints.
+This candy cane always remains in good condition.

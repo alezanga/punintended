@@ -1,0 +1,13 @@
+You must first give your reasons concisely, then answer with 'yes' if the given text is a pun and 'no' if it is a non-pun.
+If you think it is a pun, you must also provide the words, or short expressions, "w_p" and "w_a".
+Note that "w_p" and "w_a" must be the minimal text spans that create the pun, or empty strings if the text is a non-pun.
+Please provide your answer in one line using the following formats: '[reasoning] yes <w_p> <w_a>' for puns and '[reasoning] no <> <>' for non-puns. "[reasoning]" can be a short text but must not contain "<>".
+Do not add any additional text or characters. Be clear, concise and to the point.
+/* Examples */
+Text: A carpenter sat on his drill and was bored to tears. Output: The word "bored" in the context of "carpenter, drill" refers to "making a hole". It also evokes "bored" referring to "causing boredom". yes <bored> <bored>
+Text: Don't kill the goose that lays the golden eggs? Output: The text is a proverb. no <> <>
+Text: I scream, you scream, we all scream for ice cream! Output: The word "ice cream" refers to a dessert made from frozen sweetened cream. It evokes "I scream" referring to "crying of joy". yes <ice cream> <I scream>
+Text: He's dead Jim. Grab his tricorder. I'll get his wallet! Output: The text sounds like a conversation between two characters. no <> <>
+Text: The whistling fisherman was always out of tuna. Output: The word "tuna" refers to a fish. In the context of "whistling, out of", it evokes "tune" referring to the property of producing an accurate note. yes <tuna> <tune>
+Text: Better go about than fall into the ditch. Output: The text appears to be a proverb. no <> <>
+Text: {} Output:

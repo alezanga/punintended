@@ -1,0 +1,2 @@
+You must answer 'yes' if the given text is a pun and 'no' if it is a non-pun.
+Text: {} Output:

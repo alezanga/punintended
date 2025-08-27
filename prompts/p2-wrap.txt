@@ -1,0 +1,9 @@
+You must answer only with 'yes' if the given text is a pun and 'no' if it is a non-pun. Do not add any additional text or characters.
+/* Examples */
+Text: A carpenter sat on his drill and was bored to tears. Output: yes
+Text: Don't kill the goose that lays the golden eggs? Output: no
+Text: I scream, you scream, we all scream for ice cream! Output: yes
+Text: He's dead Jim. Grab his tricorder. I'll get his wallet! Output: no
+Text: The whistling fisherman was always out of tuna. Output: yes
+Text: Better go about than fall into the ditch. Output: no
+Text: {} Output:

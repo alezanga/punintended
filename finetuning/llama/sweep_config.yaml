@@ -1,0 +1,55 @@
+project: llama-sweep-p5-final
+program: finetuning/train_sweep.py
+name: random_sweep
+description: Random sweep
+
+method: random
+metric:
+  name: eval_loss  # This metric will be optimized
+  goal: minimize  # We want to minimize the validation loss
+
+parameters:
+  model_id:
+    #    value: unsloth/Llama-3.2-3B-Instruct-bnb-4bit
+    value: unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit
+  model_name:
+    value: llama-3.1-8B-Instruct-bnb-4bit
+  prompt:
+    value: prompts/p5.txt
+  seed:
+    value: 513
+  train_data:
+    value: data/puneval/train_puns_nodup.json
+  val_data:
+    value: data/puneval/val_puns.json
+  outdir:
+    value: dumps/sweep
+  max_seq_length:
+    value: 2048
+  max_tokens:
+    value: 128
+  boa:
+    value: <|im_start|>assistant
+  temp:
+    value: 0.0
+  patience:
+    value: 2
+  epochs:
+    value: 3
+  ga:
+    value: 1
+  packing:
+    value: True
+  bs:
+    value: 8
+
+  lr:
+    values: [ 5e-4, 1e-4, 5e-5, 1e-5 ]
+  wd:
+    values: [ 0.0, 1.0e-2 ]
+  #  packing:
+  #    values: [ True, False ]
+  lora_r:
+    values: [ 8, 16, 32, 64 ]
+  lora_alpha:
+    values: [ 16, 32, 128 ]

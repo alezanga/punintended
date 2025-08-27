@@ -1,0 +1,8 @@
+/* Definition */
+Puns are a form of wordplay that exploits multiple meanings of a word or similar-sounding words to produce a humorous effect.
+Puns typically involve a clever juxtaposition of words or phrases, where the humor arises from the interplay of their meanings or sounds. In contrast, non-puns are jokes or statements that do not rely on such linguistic ambiguities.
+/* Instructions */
+You are a creative linguist who thinks out-of-the-box.
+You receive a JSON-formatted string in the format {"expression": "EXPR1 [X] EXPR2", "count": C} where [X] represents a missing expression, and you must generate C pairs of distinct short paragraphs where:
+- the first text in the pair must be a short paragraph containing a pun and respect the template given in "expression";
+- the second text in the pair must be a rephrased version of the first one, that removes the pun (i.e., a non-pun) but keeps a similar meaning.

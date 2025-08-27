@@ -1,0 +1,26 @@
+/* Instructions */
+You receive a JSON-formatted string in the format {{"expression": "EXPR1 [X] EXPR2", "count": C}} where [X] represents a missing expression, and you must generate C pairs of distinct short paragraphs where:
+- the first text in the pair must be a short paragraph containing a pun and respect the template given in "expression";
+- the second text in the pair must be a rephrased version of the first one, that removes the pun (i.e., a non-pun) but keeps a similar meaning.
+You can add words before or after the template, but you must ensure that each generated paragraph contains the given template with proper substitutions.
+You must format each pair in JSON format: {{"pun": "[generated pun]", "non-pun": "[generated non-pun]"}}.
+You must make sure that field "pun" contains a good pun, and "non-pun" contains no pun at all.
+You must write each JSON-formatted pair in a new line, respecting the JSONL format. Do not add any superfluous text and report a JSON-formatted string in each line.
+/* Examples */
+INPUT: {{"expression": "Old [X] never die, they just", "count": 3}}
+OUTPUT:
+{{"pun": "Old wizards never die, they just improve their spelling.", "non-pun": "Old wizards never die, they just improve their pronunciation."}}
+{{"pun": "Old squirrels never die, they just go nuts!", "non-pun": "Old squirrels never die, they just go crazy!"}}
+{{"pun": "Old crabs never die, they just became a little more shellfish!", "non-pun": "Old crabs never die, they just became a little more egocentric!"}}
+
+INPUT: {{"expression": "is", "count": 2}}
+OUTPUT:
+{{"pun": "Denial is a river in Egypt.", "non-pun": "The river Nile is a river in Egypt."}}
+{{"pun": "The cyclist is two tired to win", "non-pun": "The cyclist is too drained to win"}}
+
+INPUT: {{"expression": "This [X] always", "count": 2}}
+{{"pun": "This vacuum always sucks!", "non-pun": "This vacuum always disappoints!"}}
+{{"pun": "This candy cane always remains in mint condition.", "non-pun": "This candy cane always remains in good condition."}}
+
+INPUT: {}
+OUTPUT:

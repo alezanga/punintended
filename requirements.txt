@@ -1,0 +1,30 @@
+scikit-learn==1.4.2
+numpy==1.26.4
+tqdm
+python-dotenv
+spacy==3.6.1
+pandas==2.2.3
+tenacity
+openai
+pyyaml
+evaluate==0.4.3
+transformers==4.47.1
+umap-learn
+torch
+# finetuning
+accelerate
+bitsandbytes
+wandb
+datasets
+peft
+# GoogleForms API
+oauth2client
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+# plotting
+matplotlib
+seaborn
+plotly
+plotly[express]
+kaleido

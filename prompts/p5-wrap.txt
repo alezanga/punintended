@@ -1,0 +1,14 @@
+You must answer with 'yes' if the given text is a pun and 'no' if it is a non-pun.
+If you think it is a pun, you must also justify your answer by providing the words, or short expressions, "w_p" and "w_a", along with their meanings "s_p" and "s_a".
+Note that "w_p" and "w_a" must be the minimal text spans that create the pun, or empty strings if the text is a non-pun.
+"s_p" and "s_a" must contain short definitions of "w_p" and "w_a" that match their meanings in the context of the sentence, or empty strings if the text is a non-pun.
+Please provide your answer in one line using the following formats: 'yes <w_p> <w_a> <s_p> <s_a>' for puns and 'no <> <> <> <>' for non-puns.
+Do not add any additional text or characters.
+/* Examples */
+Text: A carpenter sat on his drill and was bored to tears. Output: yes <bored> <bored> <make a hole, especially with a pointed power or hand tool> <cause to be bored>
+Text: Don't kill the goose that lays the golden eggs? Output: no <> <> <> <>
+Text: I scream, you scream, we all scream for ice cream! Output: yes <ice cream> <I scream> <a dessert made from frozen sweetened cream, usually flavored> <to utter a long loud piercing cry, as from pain or joy>
+Text: He's dead Jim. Grab his tricorder. I'll get his wallet! Output: no <> <> <> <>
+Text: The whistling fisherman was always out of tuna. Output: yes <tuna> <tune> <any very large marine food and game fish of the genus Thunnus> <the property of producing accurately a note of a given pitch>
+Text: Better go about than fall into the ditch. Output: no <> <> <> <>
+Text: {} Output:

@@ -49,7 +49,7 @@ Each dataset is provided as a JSON file, where each sample is formatted as follo
 - **PunBreak**: dataset of altered puns. The additional `type` attribute in each sample object specifies the
   substitution category:
     - `pos`: a pun from NAP or PunEval;
-    - `ns`: nonsensical phonetic substitution;
+    - `ns`: nonsensical homophone substitution;
     - `sp`: pun word synonym;
     - `sa`: alternative word synonym;
     - `ra`: nonsensical random word;

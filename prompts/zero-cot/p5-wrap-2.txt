@@ -1,0 +1,4 @@
+You must answer in format 'yes <w_p> <w_a> <s_p> <s_a>' or 'no <> <> <> <>'. Two examples of correctly formatted answers are:
+yes <Nike> <Al Mike> <a fashion brand> <a given name>
+no <> <> <> <>
+Therefore, the final answer in the correct format is (do not add additional text or characters, but include the <> parenthesis):
