@@ -48,9 +48,9 @@ Each dataset is provided as a JSON file, where each sample is formatted as follo
 - **PunnyPattern**: each JSON file contains 200 samples with a different language pattern;
 - **PunBreak**: dataset of altered puns. The additional `type` attribute in each sample object specifies the
   substitution category:
-    - `pos`: a pun from NAP or PunEval;
-    - `ns`: nonsensical homophone substitution;
-    - `sp`: pun word synonym;
-    - `sa`: alternative word synonym;
-    - `ra`: nonsensical random word;
-    - `neg`: control group of 100 generated non-pun sentences.
+    - `pos`: a pun from NAP or PunEval (pun);
+    - `ns`: nonsensical homophone substitution (homophone);
+    - `sp`: pun word synonym (pun syn);
+    - `sa`: alternative word synonym (alt syn);
+    - `ra`: nonsensical random word (random);
+    - `neg`: control group of 100 generated non-pun sentences (rand sent).

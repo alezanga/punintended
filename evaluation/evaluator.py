@@ -73,9 +73,9 @@ class Evaluator:
         matches = list()
         for true_example, pred_example in tqdm(zip(truth, pred), desc="Evaluating rationales"):
             # # ******************* COMMENT THESE 3 LINES BELOW TO EVALUATE ALL PREDICTION CATEGORIES
-            if true_example["label"] != pred_example["pred_label"] or true_example["label"] == 0:
-                # print("Evaluating only TP!!!!")
-                continue
+            # if true_example["label"] != pred_example["pred_label"] or true_example["label"] == 0:
+            #     print("Evaluating only TP!!!!")
+            #     continue
 
             if true_example["label"] != pred_example["pred_label"]:
                 matches.append(0)

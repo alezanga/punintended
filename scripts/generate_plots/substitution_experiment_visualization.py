@@ -33,13 +33,13 @@ def main():
     output_file_name = "output.json"
 
     type_to_pretty_text = {
-        "ns": "homophone (0)",
-        "ra": "random (0)",
-        "sp": "pun syn (0)",
-        "sa": "alt syn (0)",
-        "pos": "pun (1)",
-        "neg": "sentence (0)",
-        "test_negative": "PunEval (0)",
+        "ns": "homophone",
+        "ra": "random",
+        "sp": "pun syn",
+        "sa": "alt syn",
+        "pos": "pun",
+        "neg": "rand sent",
+        "test_negative": "PunEval",
     }
 
     metric_records = list()
@@ -201,7 +201,7 @@ def main():
 
     # **** RATIONALE IMPACT ON RECALL/PRECISION TRUE (ALL CATEGORIES)
     df_filtered = df.copy(deep=True)
-    df_filtered = df_filtered.loc[(df_filtered["substitution"].isin(["homophone (0)", "random (0)", "pun syn (0)", "alt syn (0)"]))]
+    df_filtered = df_filtered.loc[(df_filtered["substitution"].isin(["homophone", "random", "pun syn", "alt syn"]))]
     df_filtered["data_name"] = "ALL"
 
     # Instead of showing all prompts, shows just split violin plot of fs vs best rationale

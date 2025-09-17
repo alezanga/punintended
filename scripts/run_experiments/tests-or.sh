@@ -12,8 +12,7 @@ BASE_DATA_FILES=("data/public/punny_pattern/daughter.json"
                  "data/public/punny_pattern/used.json"
                  "data/public/punny_pattern/when.json"
                  "data/public/nap.json"
-                 "data/public/puneval/test.json"
-                 "data/private/joker/ruined.json")
+                 "data/public/puneval/test.json")
 SUBSTITUTION_DATA_FILES=("data/public/pun_break.json")
 PROMPTS=("prompts/p1.txt" "prompts/p2.txt" "prompts/p3.txt" "prompts/p5.txt")
 MODEL_IDS=("meta-llama/llama-3.3-70b-instruct"

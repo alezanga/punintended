@@ -17,7 +17,7 @@ def plot_results(outdir: Path, df: pd.DataFrame, x_axis: str, y_axis: str, group
                  y_axis_label: str = None, title: str = None, prefix: str = "",
                  legend_position: str = "best",
                  x_tick_rotation: int = 45,
-                 font_scale=2.15,
+                 font_scale=2.5,
                  custom_legend_on_top: bool = False, **kwargs):
     """
     Create boxplot or barplots with data
@@ -88,7 +88,7 @@ def plot_results(outdir: Path, df: pd.DataFrame, x_axis: str, y_axis: str, group
             rect_top -= (legend_height_factor + 0.01)
             rect_top += 0.08
             # *** PAPER PLOT
-            plt.legend(title=group_by.capitalize(), ncol=4, loc="upper center", bbox_to_anchor=(0.5, 1.34), handletextpad=0.1, borderaxespad=0.1)
+            plt.legend(title=group_by.capitalize(), ncol=4, loc="upper center", bbox_to_anchor=(0.5, 1.34), handletextpad=0.1, borderaxespad=0.1, labelspacing=0.05)
             plt.tight_layout(pad=0.2, rect=[0.0, 0.0, 1.0, rect_top])
             # *** POSTER PLOT ONLY (MAGNIFY)
             # plt.legend(title=group_by.capitalize(), ncol=4, loc="upper center", bbox_to_anchor=(0.45, 1.34), handletextpad=0.1, borderaxespad=0.01,

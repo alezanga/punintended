@@ -22,22 +22,14 @@ python scripts/generate_plots/prompting_metrics_visualization.py \
 mv $RESULTS_BASE_FOLDER/create_sheet_output/*.png $PLOT_FOLDER/
 
 RESULTS_BASE_FOLDER=results/standard_prompt/substitution_data
-# barplot_best_recall_by_substitution_best_prompt.png
-# violin_ALL_rationale_effect_recall_by_prompt.png
+# barplot_best_accuracy_by_substitution_best_prompt.png
+# violin_ALL_rationale_effect_accuracy_by_prompt.png
 python -O scripts/generate_plots/substitution_experiment_visualization.py \
     $RESULTS_BASE_FOLDER/run_1 \
     $RESULTS_BASE_FOLDER/run_2 \
     $RESULTS_BASE_FOLDER/run_3 \
     --metric accuracy
-
-# barplot_best_precision_by_substitution_best_prompt.png
-python -O scripts/generate_plots/substitution_experiment_visualization.py \
-    $RESULTS_BASE_FOLDER/run_1 \
-    $RESULTS_BASE_FOLDER/run_2 \
-    $RESULTS_BASE_FOLDER/run_3 \
-    --metric precision
 mv $RESULTS_BASE_FOLDER/create_sheet_output/*.png $PLOT_FOLDER/
-rm $PLOT_FOLDER/violin_ALL_rationale_effect_precision_by_prompt.png # we do not need this
 
 
 # boxplot_c_correlation_confidence_and_prediction_class.png

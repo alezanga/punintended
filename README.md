@@ -4,7 +4,7 @@ Code and data for paper `Pun Unintended: LLMs and the Illusion of Humor Understa
 
 ## Info
 
-Preprint: TODO
+Preprint: https://doi.org/10.48550/arXiv.2509.12158
 
 Released data is described in the specific [readme file](./data/public/readme.md).
 
